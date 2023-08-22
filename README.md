@@ -23,7 +23,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Orientador
 
 * Fábio Leandro Rodrigues Cordeiro
-* 
+* Shirley Luana Ramos de Assis
+* Franciele Parreiras
 
 # Planejamento
 
