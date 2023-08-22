@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11591973&assignment_repo_type=AssignmentRepo)
 # Events Now
 
-`CURSO: Sistemas de Informação/ADS`
+`CURSO: Sistemas de Informação/Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
@@ -12,15 +12,18 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Nathan Carvalho Cota
+* Marco Aurélio Pires Campos Júnior
+* Pedro Henrique Lima Bomfim
+* Vitor Costa Gomes
+* Eduardo Henrique Ramos de Melo
+* Luiz Felipe Linhares Vieira
+* Gabriel Filipe Azevedo Montalvão
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fábio Leandro Rodrigues Cordeiro
+* 
 
 # Planejamento
 
