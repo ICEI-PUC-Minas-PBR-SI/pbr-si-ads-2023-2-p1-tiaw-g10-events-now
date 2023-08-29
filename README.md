@@ -8,7 +8,9 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Events Now é uma inovadora solução para atender à crescente demanda por serviços de eventos e festas, isso porque, é levado em consideração a importância desses momentos na vida das pessoas e a complexidade da organização devido à diversidade das demandas e de fornecedores. Nesse sentido, a plataforma centraliza fornecedores que atende os clientes com descrições detalhadas do serviço, preços transparentes, avaliações de outros usuários, como também medidas de segurança financeira. Nessas circunstâncias, os consumidores são altamente beneficiados ao oferecer conveniência e praticidade na busca e comparação de serviços do mercado.
+
+Além disso, esse serviço se estende aos fornecedores que por sua vez, recebe plataforma para avaliação, facilidade de atendimento aos clientes, assim como, para os iniciantes, pode proporcionar visibilidade e destaque ao longo do tempo. A plataforma centraliza os consumidores, oferecendo praticidade para concluir o negócio, informações detalhadas, dados do próprio empreendimento e do mercado, transparência nos preços e avaliações de clientes, ao mesmo tempo em que garante a segurança financeira dos pagamentos. Dessarte, o Events Now simplifica o processo de planejamento e contratação de serviços, respondendo de forma inteligente às necessidades do mercado de eventos, promovendo a conexão eficaz entre consumidores e fornecedores. Contudo, a solução se destaca por sua eficácia na conexão entre consumidores e fornecedores, o que traz benefícios tanto para fornecedores, ao proporcionar visibilidade e destaque no mercado, quanto consumidores, ao facilitar a busca e comparação de serviços, simplificando todo o processo de planejamento e contratação.
 
 ## Integrantes
 
