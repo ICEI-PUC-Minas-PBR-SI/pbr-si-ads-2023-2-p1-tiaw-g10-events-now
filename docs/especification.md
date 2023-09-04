@@ -6,6 +6,126 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+Nome:Wagner Coceprano.
+             
+Idade: 42 anos empresário.
+
+O que pensa e sente?
+
+Amor extensivo por sua maior riqueza, sua filha.
+ 
+O que ouve?
+
+Gosta de sertanejo, e algumas músicas populares brasileira dos anos 80.
+
+O que vê?
+
+Normalmente, não costuma ver televisão. Exceto, durante os jogos do seu time e o Fantástico no domingo.
+
+O que faz?
+
+Casualmente, bebe um pouco. Mas normalmente, ele torce para seu clube preferido com os amigos.
+
+Quais são suas dores?
+
+Está querendo preparar uma festa para sua filha, mas reclama da dificuldade de organização.
+
+Quais são suas necessidades?
+
+Buscar resolver problemas de forma rápida para manter sua rotina lotada.
+
+1º "Wagner Coceprano tem 42 anos, é empresário de sucesso. Busca realizar o sonho de sua filha, que é uma grande festa de 15 anos. Ele busca agilidade e praticidade na organização, e quer acertar os bons fornecedores porque sua filha é seu maior tesouro. Por esse motivo, procura dicas de seus colegas do futebol de uma maneira prática de organizar a festa."
+
+Nome:Luíza Marta.
+             
+Idade: 24 anos esteticista.
+
+O que pensa e sente?
+
+Vontade de ter o casamento perfeito.
+ 
+O que ouve?
+
+Geralmente, gosta de ouvir rock e MPB.
+
+O que vê?
+
+Gosta de ver vídeos no youtube sobre maquiagem e fofocas.
+
+O que faz?
+
+Gosta de sair com as amigas, e sair com seu namorado no shopping.
+
+Quais são suas dores?
+
+Está querendo ter um casamento perfeito, um que suas amigas terão o que falar por anos.
+
+Quais são suas necessidades?
+
+Se sentir radiante e manter o foco na sua clínica de beleza.
+
+2º "Luíza Marta, tem 24 anos. Deseja-se casar com seu belo noivo que é engenheiro. Mas, para isso, precisa conciliar uma rotina cheia de clientes e a organização do seu casamento dos sonhos. Com isso busca alternativas na internet para realizar a organização do seu evento da maneira mais incrível possível.
+
+Nome: Larrysa Estephany
+             
+Idade: 32
+
+O que pensa e sente?
+
+Gosta de curtir seus finais de semanas vendo série, sua primeira vez como mãe e se sente muito feliz com a aventura.
+ 
+O que ouve?
+
+Normalmente, ouve gospel. Mas, atualmente, só houve galinha pintadinha.
+
+O que vê?
+
+Gosta de ver novelas da Record.
+
+O que faz?
+
+Ela é professora em escola para pequenos.
+
+Quais são suas dores?
+
+Pretende dar uma infância repleta de memórias e confraternização, que sempre quis ter em sua vida.
+
+Quais são suas necessidades?
+
+Ter uma família feliz e unida.
+
+3º "Laryssa Estephany tem 30 anos e uma bela filha que completará 2 anos nesse mês. Pensa em chamar sua família e amigos da igreja para festejar o crescimento da sua filha. Devido a sua rotina apertada, está procurando praticidade para organizar uma bela confraternização."
+
+Nome: José Carlos
+             
+Idade: 20 anos.
+
+O que pensa e sente?
+
+Gosta de curtir festa com seus amigos, e está muito animado em conhecer novas amizades na nova faculdade.
+ 
+O que ouve?
+
+Normalmente, escuta rap mas costuma ouvir outras músicas identitárias brasileira.
+
+O que vê?
+
+Normalmente, gosta de assistir alguns e prefere o basquetebol.
+
+O que faz?
+
+Ele faz medicina na federal, também já vendeu produtos pela internet, mas não tem emprego fixo.
+
+Quais são suas dores?
+
+Pretende aproveitar seu período estudantil ao máximo e busca muitos relacionamentos amorosos.
+
+Quais são suas necessidades?
+
+Gosta de sentir viver o momento, e quer ser destaque no seu período da escola.
+
+4º "José Carlos tem 20 anos, é um estudante de medicina e também é um explorador do mercado digital. Acabou de entrar na faculdade e quer realizar o melhor evento economizando o máximo possível. Está buscando alternativas na web para começar seu período na faculdade com pé direito."
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
