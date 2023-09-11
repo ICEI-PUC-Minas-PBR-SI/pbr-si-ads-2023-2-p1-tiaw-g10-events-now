@@ -6,17 +6,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-**1º PERSONA** "Wagner Coceprano tem 42 anos, é empresário de sucesso. Busca realizar o sonho de sua filha, que é uma grande festa de 15 anos. Ele busca agilidade e praticidade na organização, e quer acertar os bons fornecedores porque sua filha é seu maior tesouro. Por esse motivo, procura dicas de seus colegas do futebol de uma maneira prática de organizar a festa."
+**1º PERSONA** 
+"Wagner Coceprano tem 42 anos, é empresário de sucesso. Busca realizar o sonho de sua filha, que é uma grande festa de 15 anos. Ele busca agilidade e praticidade na organização, e quer acertar os bons fornecedores porque sua filha é seu maior tesouro. Por esse motivo, procura dicas de seus colegas do futebol de uma maneira prática de organizar a festa."
 
 
-**2º PERSONA** "Luíza Marta, tem 24 anos. Deseja se sentir uma princesa ao casar com seu belo noivo que é engenheiro. Mas, para isso, precisa conciliar uma rotina cheia de clientes e a organização do seu perfeito casamento dos sonhos. Com isso busca alternativas na internet para realizar a organização do seu evento da maneira mais incrível possível.
+**2º PERSONA** 
+"Luíza Marta, tem 24 anos. Deseja se sentir uma princesa ao casar com seu belo noivo que é engenheiro. Mas, para isso, precisa conciliar uma rotina cheia de clientes e a organização do seu perfeito casamento dos sonhos. Com isso busca alternativas na internet para realizar a organização do seu evento da maneira mais incrível possível.
 
 
-**3º PERSONA** "Laryssa Estephany tem 30 anos e uma bela filha que completará 2 anos nesse mês. Busca celebrar essa data com um evento memorável, com muitas fotos para ficar de lembrança. Para isso, deseja chamar sua família e amigos da igreja para festejar o crescimento da sua filha. Devido a sua rotina apertada, está procurando praticidade para organizar uma bela confraternização."
+**3º PERSONA** 
+"Laryssa Estephany tem 30 anos e uma bela filha que completará 2 anos nesse mês. Busca celebrar essa data com um evento memorável, com muitas fotos para ficar de lembrança. Para isso, deseja chamar sua família e amigos da igreja para festejar o crescimento da sua filha. Devido a sua rotina apertada, está procurando praticidade para organizar uma bela confraternização."
 
-**4º PERSONA** "José Carlos tem 20 anos, é um estudante de medicina e também é um explorador do mercado digital. Acabou de entrar na faculdade e deseja realizar o melhor evento economizando o máximo possível. Está buscando alternativas na web para começar seu período na faculdade com pé direito, e com muitas amizades novas."
+**4º PERSONA** 
+"José Carlos tem 20 anos, é um estudante de medicina e também é um explorador do mercado digital. Acabou de entrar na faculdade e deseja realizar o melhor evento economizando o máximo possível. Está buscando alternativas na web para começar seu período na faculdade com pé direito, e com muitas amizades novas."
 
+**5º PERSONA** 
+“Lucas Silva é um fotógrafo de 28 anos, ele é apaixonado por capturar momentos especiais e divulgar em suas redes sociais. Apesar de não ter muita visibilidade no mercado, decidiu abrir seu negócio para trabalhos profissionais. Ele tem uma renda variável, já que depende da clientela. Nesse sentido, ele busca uma plataforma que organiza um espaço adequado para expor seu trabalho e estabelecer contato com clientes novos."
 
+**6º PERSONA** 
+“Carolina Duarte tem 35 anos, é decoradora e ama trabalhar com festas temáticas infantis, deseja atrair mais clientes e demonstrar a qualidade de seus serviços por meio de avaliações e depoimentos. Além disso, ela procura uma plataforma fácil de usar para divulgar seu trabalho, gerenciar sua agenda de negócios e se comunicar com os clientes, pois não tem muita experiência com redes sociais.”
+
+**7º PERSONA** 
+"Roger Flinston, de 46 anos, dirige uma empresa de entretenimento infantil com recursos e pessoal experiente, mas enfrenta desafios para estabelecer uma estratégia de marketing coesa. Nesse sentido, ele deseja melhorar a divulgação de sua empresa de forma prática e econômica, buscando uma plataforma que forneça dados sobre a divulgação e o relacionamento com os clientes. Dessa forma, Roger busca uma plataforma que o ajude a organizar o processo de divulgação e a acompanhar as metas de marketing, destacando as funcionalidades de seu empreendimento no ramo."
 
 ## Histórias de Usuários
 
