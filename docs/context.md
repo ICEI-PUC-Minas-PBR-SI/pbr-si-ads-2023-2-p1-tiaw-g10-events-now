@@ -1,54 +1,46 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+ Mesmo nos piores momentos, os eventos fazem parte da vida de qualquer pessoa, seja uma festa, eventos corporativos, grandes festivais, todos esses momentos fazem partes de memórias marcantes na vida de uma pessoa. Tendo em vista a grande demanda de serviços na área de eventos e festas, é percetiptível a dificuldade de encontrar os serviços desejados, saber seus valores e todos seus diferenciais dos demais concorrentes. Pensando nisso, surgiu a ideia do Events Now, um local onde os fornecedores reunem todos seus serviços, fazendo uma descrição detalhada sobre os mesmos, fornecendo valores e contando também com avaliação dos clientes. Nossa ideia como principal foco trazer a facilidade para o consumidor, fornecendo para ele valores, descrição, avaliação e principalmente diversidade nos serviços desejados. O serviço é atrativo para consumidores e fornecedores, pois fornece a proteção de pagamentos, evitando que quaisquer problemas ocorram com o não pagamento ou falta do fornecimento do produto contrato. Para os fornecedores, tem-se como principal a visibilidade de seus serviços, para aqueles que ainda não se encontram com nome em destaque no mercado. Já para os consumidores, o principal atrativo é a facilidade de encontrar a variedade de serviços, podendo comparar diversos preços com base em localidade, data e qualidade.
+ 
+ O Events Now é uma solução inovadora para a crescente demanda por serviços de eventos e festas. Reconhecendo que momentos significativos, desde festas particulares a grandes festivais, formam parte integral da vida de qualquer indivíduo, a plataforma visa simplificar a busca e contratação desses serviços. Ao reunir fornecedores em um único espaço, a plataforma oferece descrições detalhadas, valores transparentes e avaliações de clientes para cada serviço. A iniciativa visa não apenas facilitar a vida dos consumidores, proporcionando informações abrangentes, mas também impulsionar a visibilidade e oportunidades para os fornecedores, especialmente aqueles que ainda buscam renome no mercado.
+ 
+ O atrativo do serviço é duplo, beneficiando tanto os consumidores quanto os fornecedores. A plataforma aborda as preocupações de segurança financeira ao proteger os pagamentos, garantindo que contratantes e fornecedores não enfrentem problemas como inadimplência ou falta de entrega. Para os fornecedores, oferece uma vitrine para apresentar seus serviços, uma chance de destacar-se em um cenário competitivo. Por outro lado, os consumidores se beneficiam da praticidade de encontrar uma ampla variedade de serviços e comparar preços com base em localização, data e qualidade. Em essência, o Events Now surge como uma resposta inteligente à complexidade e necessidades do mercado de eventos, promovendo a conexão eficiente entre consumidores e fornecedores, enquanto simplifica todo o processo de planejamento e contratação de serviços.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+   O "Events Now" atende um público variado. Nesse contexto, encotra-se um casal apaixonado que decidiu oficializar sua união com um casamento memorável. No entanto, planejar um casamento envolve muitas tarefas complexas, desde encontrar o local perfeito até escolher os serviços essenciais, como catering, decoração, música e muito mais. Por conseguinte, o casal se registrou na plataforma "Events Now" e começou a explorar uma ampla variedade de fornecedores de casamentos. Assim, eles navegaram pelas categorias disponíveis e encontraram facilmente locais encantadores, fotógrafos talentosos, chefs habilidosos e outros serviços relacionados ao evento. A plataforma forneceu informações detalhadas sobre cada fornecedor, incluindo preços transparentes, portfólios de trabalhos anteriores e avaliações de outros clientes. Essa fase permitiu que o casal se familiarizasse com as opções disponíveis.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+  Com uma lista crescente de fornecedores favoritos na plataforma, o casal começou a comparar as opções disponíveis. Posteriormente observaram avaliações detalhadas de outros clientes que haviam usado os serviços dos fornecedores em sua lista. Isso proporcionou uma visão valiosa sobre a qualidade do serviço e o atendimento ao cliente de cada fornecedor. Com base nas informações obtidas, o casal começou a tomar decisões informadas sobre quais fornecedores melhor atendiam às suas necessidades. Depois de escolher os fornecedores que desejavam contratar, o casal iniciou a comunicação direta pela plataforma, como também, enviaram mensagens para os fornecedores com perguntas específicas, discutiram detalhes personalizados e solicitaram orçamentos adaptados às suas necessidades. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+  Dessarte, a plataforma "Events Now" facilitou a comunicação, mantendo um registro organizado de todas as mensagens e interações. Isso economizou tempo e evitou confusões durante o processo de planejamento. Após negociações bem-sucedidas, o casal optou por fechar os contratos diretamente pela plataforma. E, por consequência, receberam contratos detalhados, que incluíam todos os termos acordados, e puderam realizar os pagamentos com segurança pela plataforma. A garantia da segurança financeira proporcionada pela plataforma tranquilizou o casal durante todo o processo. Nesse sentido, conseguiram planejar seu casamento de forma eficiente, economizando tempo e minimizando o estresse. Assim, seu casamento dos sonhos foi um sucesso, com todos os detalhes cuidadosamente organizados pelos fornecedores encontrados no "Events Now". Além disso, os fornecedores também se beneficiaram com a exposição e as avaliações positivas do casal, o que ajudou a melhorar suas reputações e a expandir seus negócios. Este caso de uso expandido ilustra como o "Events Now" está revolucionando a maneira como casais planejam seus casamentos. A plataforma não apenas facilita o processo de organização, mas também eleva o nível de qualidade e confiança na indústria de casamentos, tornando cada casamento uma experiência verdadeiramente especial e memorável.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é desenvolver um software inovador, oferecendo uma plataforma unificada que conecta consumidores e fornecedores, facilitando o planejamento de eventos, melhorando a confiança no mercado e possibilitando a conexão direta entre as várias partes presentes no processo.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Dentre os objetivos específicos, tem-se:
+
+1. Criar uma interface intuitiva e amigável que permita aos consumidores pesquisar, comparar e contratar diversos serviços relacionados a eventos, como locais, fotógrafos, DJs, decoradores, e muito mais. Isso inclui a criação de perfis detalhados de fornecedores com informações abrangentes, preços transparentes e avaliações de clientes.
+
+2. Oferecer ferramentas e recursos para que os fornecedores possam criar perfis atraentes, exibir portfólios de trabalhos anteriores e interagir diretamente com clientes em potencial. Além disso, permitir que eles gerenciem transações, contratos e pagamentos com segurança por meio da plataforma.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+ Diante da ampla gama de serviços atualmente disponíveis, surge a dificuldade de compreender suas principais características, benefícios, valores e distinções. Por exemplo, quando alguém planeja sua cerimônia de casamento e busca informações na internet, depara-se com uma diversidade de serviços, porém fragmentados e carentes de detalhes sobre o que exatamente estão contratando.
+ 
+Para ilustrar, um único casamento demanda uma variedade de serviços distintos, incluindo:
+Cerimonialista, buffet, espaço, DJ / banda ao vivo, barman, animação de festa, fotografia, decoração, garçons, vestido / terno, maquiagem, entre outros.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+ Contudo, o desafio não é exclusivo do cliente. Ao analisar a situação pelo prisma dos empreendedores, fica evidente a dificuldade de promover seus produtos e transmitir com clareza suas ideias para um amplo público. Além disso, surge a questão da confiança por parte dos clientes, uma vez que estes podem não possuir histórico prévio, gerando apreensões sobre como seus produtos serão tratados durante o evento, bem como preocupações relacionadas ao pagamento.
+ 
+ Torna-se claro que o problema afeta ambas as partes, seja pela dispersão das informações, seja pela promoção dos produtos. Nesse contexto, surge o Events Now com a proposta revolucionária de transformar o mundo dos eventos, facilitando o estabelecimento ágil de relações de confiança entre clientes e fornecedores. Para os clientes, o diferencial principal consiste na concentração de uma variedade de serviços em um único local. Isso possibilita a comparação de diversos parâmetros, permitindo a escolha dos serviços mais adequados para atender suas necessidades, incluindo: Valores, avaliações, descrições detalhadas dos produtos com fotos, localização.
+ 
+ No que se refere aos fornecedores, a atração principal reside na criação de uma vitrine exposta a um amplo público, o que amplia a visibilidade de seus produtos e permite alcançar clientes que, anteriormente, não teriam conhecimento de suas ofertas. O site proporciona uma visibilidade substancial, permitindo que uma apresentação cuidadosamente elaborada exiba todos os benefícios e diferenciais de cada serviço.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+ O público-alvo da plataforma  Events Now abrange duas principais categorias: consumidores que estão planejando eventos, como casamentos, festas e festivais, e fornecedores que oferecem serviços relacionados a eventos. Para os consumidores, a plataforma atende a indivíduos e casais que desejam realizar eventos memoráveis e buscam uma solução abrangente para simplificar o processo de planejamento. Isso inclui noivos e noivas, organizadores de festas particulares, organizadores de eventos corporativos, e amantes da cultura de festivais. Eles valorizam a facilidade de encontrar uma ampla variedade de serviços, comparar preços com base em localização, data e qualidade, e ter acesso a informações detalhadas, avaliações de clientes e proteção financeira ao fazer transações pela plataforma.
+ 
+ Para os fornecedores, o público-alvo é composto por empresas e empreendedores que oferecem serviços relacionados a eventos, como locais de eventos, fotógrafos, chefs, músicos, decoradores, cerimonialistas, entre outros. Isso inclui tanto fornecedores estabelecidos quanto aqueles que buscam expandir seus negócios e ganhar visibilidade no mercado de eventos. Eles reconhecem o valor de ter uma presença consolidada em uma plataforma que reúne clientes em potencial interessados em seus serviços. Além disso, a plataforma oferece ferramentas para melhorar sua exposição, apresentar seus serviços com detalhes e interagir diretamente com clientes em potencial.
+ 
+ No geral, o público de ambas as partes consiste principalmente em homens e mulheres de 20 a 50 anos interessados em realizar eventos ou fornecer serviços relacionados. Em sua maioria estarão localizados em grandes centros e serão concentrados dentre as classes A - C. Serão pessoas que se importam com a organização de seus eventos e buscam qualidade em todos os serviços, para se satisfazer assim como satisfazer os convidados, estando aptas para inclusive pagar valores maiores com a garantia de um trabalho de qualidade.
