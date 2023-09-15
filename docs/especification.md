@@ -47,6 +47,13 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
+Eu Wagner Coceprano, como usuário do sistema, quero uma forma de encontrar apenas os melhores fornecedores para os serviços da festa, para dar a minha filha tudo da melhor qualidade possível independente do preço.
+
+Eu Luíza Marta, como usuária do sistema, quero poder organizar um casamento de qualidade mas de forma prática, para que eu não tenha que me preocupar excessivamente e alterar muito minha rotina no dia a dia.
+
+Eu Laryssa Estephany, como usuária do sistema, quero poder selecionar a dedo as opções de fornecedores disponíveis, avaliando cuidadosamente os trabalhos anteriores de cada um, para escolher eu mesma o que mais me agrada.
+
+Eu José Carlos, como usuário do sistema, quero encontrar o fornecedor com o melhor custo-benefício da região e evitar os preços mais altos, para realizar uma festa de qualidade porém sem gastos exagerados.
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
