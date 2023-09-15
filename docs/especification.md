@@ -4,6 +4,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
+Projeto para solucionar as demandas do mercado de eventos e unificar uma grande quantidade de serviços em uma única plataforma. Objetivo de conectar fornecedores e contratantes para solucionar de forma rápida e prática qualquer atividade relacionada a área, seja o planejamento de uma festa de 15 anos, casamento, reunião empresarial entre inúmeras outras possibilidades.
+
+Dentre as tecnologias utilizadas estarão presentes: Visual Studio Code, como a ferramenta de desenvolvimento principal do código. Local storage / json server para o back-end da aplicação. HTML, CSS e Bootstrap para o desenvolvimento do front-end e por último GitHub Classroom, que será utilizado para o versionamento do projeto.
+
 ## Personas
 
 **1º PERSONA** 
