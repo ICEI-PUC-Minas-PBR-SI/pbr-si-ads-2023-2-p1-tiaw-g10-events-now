@@ -31,22 +31,6 @@ Dentre as tecnologias utilizadas estarão presentes: Visual Studio Code, como a 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 Eu Wagner Coceprano, como usuário do sistema, quero uma forma de encontrar apenas os melhores fornecedores para os serviços da festa, para dar a minha filha tudo da melhor qualidade possível independente do preço.
 
 Eu Luíza Marta, como usuária do sistema, quero poder organizar um casamento de qualidade mas de forma prática, para que eu não tenha que me preocupar excessivamente e alterar muito minha rotina no dia a dia.
@@ -54,6 +38,13 @@ Eu Luíza Marta, como usuária do sistema, quero poder organizar um casamento de
 Eu Laryssa Estephany, como usuária do sistema, quero poder selecionar a dedo as opções de fornecedores disponíveis, avaliando cuidadosamente os trabalhos anteriores de cada um, para escolher eu mesma o que mais me agrada.
 
 Eu José Carlos, como usuário do sistema, quero encontrar o fornecedor com o melhor custo-benefício da região e evitar os preços mais altos, para realizar uma festa de qualidade porém sem gastos exagerados.
+
+Eu Lucas Silva, como um fotógrafo apaixonado em busca de novos clientes, desejo uma plataforma que me ajude a exibir meu trabalho de forma atraente e a estabelecer conexões com potenciais clientes, para expandir meu negócio de fotografia e aumentar minha visibilidade no mercado.
+
+Eu Carolina Duarte, como uma decoradora especializada em festas temáticas infantis, quero uma plataforma intuitiva e amigável que me ajude a divulgar meus serviços, gerenciar meu calendário de eventos e coletar avaliações e depoimentos de clientes satisfeitos, para atrair mais clientes e demonstrar a qualidade do meu trabalho.
+
+Eu Roger Flinston, como proprietário de uma empresa de entretenimento infantil, estou em busca de uma plataforma que me auxilie na criação e execução de estratégias de marketing eficazes, fornecendo dados sobre o desempenho da divulgação e ajudando-me a alcançar minhas metas de marketing, para melhorar a visibilidade e o sucesso do meu negócio no mercado de entretenimento infantil.
+
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
