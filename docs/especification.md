@@ -53,80 +53,62 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
-|RF-001| Registro de Fornecedores de Serviços de Eventos| | |
-|RF-002| Registro de Consumidores Interessados em Contratar Serviços de Evento| |
-|RF-003| Autenticação de Usuários por Meio de Login e Senha||
-|RF-004| Opção de Recuperação de Senha||
-|RF-005| Perfil de Usuário para Fornecedores com Informações de Contato e Descrição de Serviços||
-|RF-006| Perfil de Usuário para Consumidores com Informações Pessoais||
-|RF-007| Possibilidade de Pesquisa de Serviços por Categoria(Filtro)||
-|RF-008| Inclusão de Preços para Cada Serviço||
-|RF-009| Opção de Upload de Fotos de Trabalhos Anteriores para Fornecedores||
-|RF-010| Avaliação e Classificação de Fornecedores Pelos Consumidores||
-|RF-011| Opção de Comentários e Feedback para Serviços Prestados||
-|RF-012| Sistema de Reservas de Serviços por Data e Localidade||
-|RF-013| Integração com Diferentes Meios de Pagamento para Processamento de Transações Financeiras||
-|RF-014| Geração de Recibos e Comprovantes de Pagamento||
-|RF-015| Notificações por E-mail ou Mensagem para Confirmação de Reservas||
-|RF-016| Painel de Controle para Fornecedores Gerenciarem Suas Reservas||
-|RF-017| Permissão para Atualização de Informações de Perfil||
-|RF-018| Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores||
-|RF-019| Calendário para Acompanhamento de Eventos Agendados||
-|RF-020| Opção de Compartilhar Detalhes do Evento com Convidados ou Clientes||
-|RF-021| Integração com Redes Sociais para Compartilhamento de Serviços||
-|RF-022| Opção de Cancelamento de Reservas com Regras Claras de Reembolso||
-|RF-023| Suporte para Atender a Diferentes Mercados||
-|RF-024| Integração com Sistema de Geolocalização para Sugestões Baseadas na Localização do Usuário||
-|RF-025|Relatório business: Emitir um relatório de tarefas no mês, que inclui dados e atividades do perfil profissional
-|RF-026|Emitir um relatório de organização do evento para o cliente |MÉDIA| |
-|RF-027| Oferecer descontos e ofertas de fornecedores complementares para completar o evento| BAIXA||
-|RF-028|Fornecer associação entre os fornecedores| BAIXA | |
-|RF-029| Fornecer cadastro de participantes da festa| BAIXA | |
-|RF-030| Fornecer convite padrão individual| BAIXA| |
-|RF-031| Ranking de eventos| BAIXA | |
+|RF-001  | Registro de Fornecedores de Serviços de Eventos| ALTA | GABRIEL |
+|RF-002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | EDUARDO |
+|RF-003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | LUIZ |
+|RF-004  | Opção de Recuperação de Senha | ALTA | PEDRO |
+|RF-005  | Perfil de Usuário para Fornecedores com Informações de Contato e Descrição de Serviços| ALTA | DANTON |
+|RF-006  | Perfil de Usuário para Consumidores com Informações Pessoais | ALTA | NATHAN |
+|RF-007  | Possibilidade de Pesquisa de Serviços por Categoria(Filtro)| ALTA | MARCO |
+|RF-008  | Inclusão de Preços para Cada Serviço| MÉDIA | GABRIEL |
+|RF-009  | Opção de Upload de Fotos de Trabalhos Anteriores para Fornecedores | ALTA | EDUARDO |
+|RF-010  | Avaliação e Classificação de Fornecedores Pelos Consumidores| ALTA | LUIZ |
+|RF-011  | Opção de Comentários e Feedback para Serviços Prestados| ALTA | PEDRO |
+|RF-012  | Sistema de Reservas de Serviços por Data e Localidade| ALTA | DANTON |
+|RF-013  | Integração com Diferentes Meios de Pagamento para Processamento de Transações Financeiras| MÉDIA | NATHAN |
+|RF-014  | Geração de Recibos e Comprovantes de Pagamento| BAIXA | MARCO |
+|RF-015  | Notificações por E-mail ou Mensagem para Confirmação de Reservas| BAIXA | GABRIEL |
+|RF-016  | Painel de Controle para Fornecedores Gerenciarem Suas Reservas| MÉDIA | EDUARDO |
+|RF-017  | Permissão para Atualização de Informações de Perfil| BAIXA | LUIZ |
+|RF-018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | PEDRO |
+|RF-019  | Calendário para Acompanhamento de Eventos Agendados| MÉDIA | DANTON |
+|RF-020  | Opção de Compartilhar Detalhes do Evento com Convidados ou Clientes| BAIXA | NATHAN |
+|RF-021  | Integração com Redes Sociais para Compartilhamento de Serviços| MÉDIA | MARCO |
+|RF-022  | Opção de Cancelamento de Reservas com Regras Claras de Reembolso| ALTA | GABRIEL |
+|RF-023  | Suporte para Atender a Diferentes Mercados(IDIOMAS REGIÕES)| BAIXA | EDUARDO |
+|RF-024  | Integração com Sistema de Geolocalização para Sugestões Baseadas na Localização do Usuário| ALTA | LUIZ |
+|RF-025  |Relatório business: Emitir um relatório de tarefas no mês, que inclui dados e atividades do perfil profissional | BAIXA | PEDRO |
+|RF-026  |Emitir um relatório de organização do evento para o cliente | MÉDIA | DANTON |
+|RF-027  | Oferecer descontos e ofertas de fornecedores complementares para completar o evento| BAIXA | NATHAN |
+|RF-028  |Fornecer associação entre os fornecedores| BAIXA | MARCO |
+|RF-029  | Fornecer cadastro de participantes da festa| BAIXA | GABRIEL |
+|RF-030  | Fornecer convite padrão individual| BAIXA| EDUARDO |
+|RF-031  | Ranking de eventos| BAIXA | LUIZ |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA |
-|RNF-002| As políticas internas de contratação deve atender a lei nacional do Código de Defesa do Consumidor| ALTA|
-|RNF-003| Deve-se elaborar formas de aplicação da proteção de dados respeitando as recomendações apontadas na norma brasileira do Sistemas de gestão da segurança da informação(ABNT NBR  ISO/IEC 27001)| ALTA |
-|RNF-004| Segurança de Dados dos Usuários| |
-|RNF-005| Disponibilidade de Funcionamento do Sistema| |
-|RNF-006| Velocidade de Carregamento Rápido| |
-|RNF-007| Escalabilidade para o Número de Usuários no Software| |
-|RNF-008| Backup e Recuperação de Dados Eficiente | |
-|RNF-009| Interface de Usuário Intuitiva e Simples | |
-|RNF-010| Garantia de Comentários e Classificações Autênticos| |
-|RNF-011| Integração com Sistemas de Pagamento Seguros| |
-|RNF-012| Testes de Segurança Regulares| |
-|RNF-013| Capacidade de Suportar Grandes Volumes de Tráfego| |
-|RNF-014| Atualizações Regulares e Manutenção| |
-|RNF-015| Conformidade com Padrões de Acessibilidade| |
-|RNF-016| Integração com Sistemas de Análise de Dad para fornecer insights úteis | | 
-|RNF-017| Política de Privacidade Transparente | |
-|RNF-018| Fornecer um suporte eficiente para resolução de problemas e dúvidas dos usuários | |
+|RNF-001  | O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA | PEDRO |
+|RNF-002  | As políticas internas de contratação deve atender a lei nacional do Código de Defesa do Consumidor| ALTA | DANTON |
+|RNF-003  | Deve-se elaborar formas de aplicação da proteção de dados respeitando as recomendações apontadas na norma brasileira do Sistemas de gestão da segurança da informação(ABNT NBR  ISO/IEC 27001)| ALTA | NATHAN |
+|RNF-004  | Segurança de Dados dos Usuários | ALTA | MARCO |
+|RNF-005  | Disponibilidade de Funcionamento do Sistema 24 horas| ALTA | GABRIEL |
+|RNF-006  | Velocidade de Carregamento Rápido | ALTA | EDUARDO |
+|RNF-007  | Escalabilidade para o Número de Usuários no Software | MÉDIA | LUIZ |
+|RNF-008  |  Backup e Recuperação de Dados Eficiente | ALTA | PEDRO |
+|RNF-009  | Interface de Usuário Intuitiva e Simples | ALTA | DANTON |
+|RNF-010  | Garantia de Comentários e Classificações Autênticos | MÉDIA | NATHAN |
+|RNF-011  | Integração com Sistemas de Pagamento Seguros | ALTA | MARCO |
+|RNF-012  | Testes de Segurança Regulares | ALTA | GABRIEL |
+|RNF-013  | Capacidade de Suportar Grandes Volumes de Tráfego | ALTA | EDUARDO |
+|RNF-014  | Atualizações Regulares e Manutenção | ALTA | LUIZ |
+|RNF-015  | Conformidade com Padrões de Acessibilidade | MÉDIA | PEDRO |
+|RNF-016  | Integração com Sistemas de Análise de Dados para fornecer insights úteis | BAIXA | DANTON | 
+|RNF-017  | Política de Privacidade Transparente | ALTA | NATHAN |
+|RNF-018  | Fornecer um suporte eficiente para resolução de problemas e dúvidas dos usuários | ALTA | MARCO |
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
