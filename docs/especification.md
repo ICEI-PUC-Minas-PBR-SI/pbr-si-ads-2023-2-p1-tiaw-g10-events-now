@@ -93,11 +93,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA |
 |RNF-002| As políticas internas de contratação deve atender a lei nacional do Código de Defesa do Consumidor| ALTA|
 |RNF-003| Deve-se elaborar formas de aplicação da proteção de dados respeitando as recomendações apontadas na norma brasileira do Sistemas de gestão da segurança da informação(ABNT NBR  ISO/IEC 27001)| ALTA |
-
 |RNF-004| Segurança de Dados dos Usuários| |
 |RNF-005| Disponibilidade de Funcionamento do Sistema| |
 |RNF-006| Velocidade de Carregamento Rápido| |
