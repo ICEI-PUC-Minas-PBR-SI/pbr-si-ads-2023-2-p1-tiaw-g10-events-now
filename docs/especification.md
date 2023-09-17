@@ -1,4 +1,4 @@
-# Especificações do Projeto
+ # Especificações do Projeto
 
 Projeto para solucionar as demandas do mercado de eventos e unificar uma grande quantidade de serviços em uma única plataforma. Objetivo de conectar fornecedores e contratantes para solucionar de forma rápida e prática qualquer atividade relacionada a área, seja o planejamento de uma festa de 15 anos, casamento, reunião empresarial entre inúmeras outras possibilidades.
 
@@ -55,7 +55,37 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
-
+|RF-001| Registro de Fornecedores de Serviços de Eventos| | |
+|RF-002| Registro de Consumidores Interessados em Contratar Serviços de Evento| |
+|RF-003| Autenticação de Usuários por Meio de Login e Senha||
+|RF-004| Opção de Recuperação de Senha||
+|RF-005| Perfil de Usuário para Fornecedores com Informações de Contato e Descrição de Serviços||
+|RF-006| Perfil de Usuário para Consumidores com Informações Pessoais||
+|RF-007| Possibilidade de Pesquisa de Serviços por Categoria(Filtro)||
+|RF-008| Inclusão de Preços para Cada Serviço||
+|RF-009| Opção de Upload de Fotos de Trabalhos Anteriores para Fornecedores||
+|RF-010| Avaliação e Classificação de Fornecedores Pelos Consumidores||
+|RF-011| Opção de Comentários e Feedback para Serviços Prestados||
+|RF-012| Sistema de Reservas de Serviços por Data e Localidade||
+|RF-013| Integração com Diferentes Meios de Pagamento para Processamento de Transações Financeiras||
+|RF-014| Geração de Recibos e Comprovantes de Pagamento||
+|RF-015| Notificações por E-mail ou Mensagem para Confirmação de Reservas||
+|RF-016| Painel de Controle para Fornecedores Gerenciarem Suas Reservas||
+|RF-017| Permissão para Atualização de Informações de Perfil||
+|RF-018| Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores||
+|RF-019| Calendário para Acompanhamento de Eventos Agendados||
+|RF-020| Opção de Compartilhar Detalhes do Evento com Convidados ou Clientes||
+|RF-021| Integração com Redes Sociais para Compartilhamento de Serviços||
+|RF-022| Opção de Cancelamento de Reservas com Regras Claras de Reembolso||
+|RF-023| Suporte para Atender a Diferentes Mercados||
+|RF-024| Integração com Sistema de Geolocalização para Sugestões Baseadas na Localização do Usuário||
+|RF-025|Relatório business: Emitir um relatório de tarefas no mês, que inclui dados e atividades do perfil profissional
+|RF-026|Emitir um relatório de organização do evento para o cliente |MÉDIA| |
+|RF-027| Oferecer descontos e ofertas de fornecedores complementares para completar o evento| BAIXA||
+|RF-028|Fornecer associação entre os fornecedores| BAIXA | |
+|RF-029| Fornecer cadastro de participantes da festa| BAIXA | |
+|RF-030| Fornecer convite padrão individual| BAIXA| |
+|RF-031| Ranking de eventos| BAIXA | |
 
 ### Requisitos não Funcionais
 
@@ -63,6 +93,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA |
+|RNF-002| As políticas internas de contratação deve atender a lei nacional do Código de Defesa do Consumidor| ALTA|
+|RNF-003| Deve-se elaborar formas de aplicação da proteção de dados respeitando as recomendações apontadas na norma brasileira do Sistemas de gestão da segurança da informação(ABNT NBR  ISO/IEC 27001)| ALTA |
+
+|RNF-004| Segurança de Dados dos Usuários| |
+|RNF-005| Disponibilidade de Funcionamento do Sistema| |
+|RNF-006| Velocidade de Carregamento Rápido| |
+|RNF-007| Escalabilidade para o Número de Usuários no Software| |
+|RNF-008| Backup e Recuperação de Dados Eficiente | |
+|RNF-009| Interface de Usuário Intuitiva e Simples | |
+|RNF-010| Garantia de Comentários e Classificações Autênticos| |
+|RNF-011| Integração com Sistemas de Pagamento Seguros| |
+|RNF-012| Testes de Segurança Regulares| |
+|RNF-013| Capacidade de Suportar Grandes Volumes de Tráfego| |
+|RNF-014| Atualizações Regulares e Manutenção| |
+|RNF-015| Conformidade com Padrões de Acessibilidade| |
+|RNF-016| Integração com Sistemas de Análise de Dad para fornecer insights úteis | | 
+|RNF-017| Política de Privacidade Transparente | |
+|RNF-018| Fornecer um suporte eficiente para resolução de problemas e dúvidas dos usuários | |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
