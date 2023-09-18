@@ -17,7 +17,7 @@ Além disso, esse serviço se estende aos fornecedores que por sua vez, recebe p
 * Nathan Carvalho Cota
 * Marco Aurélio Pires Campos Júnior
 * Pedro Henrique Lima Bomfim
-* Vitor Costa Gomes
+* Danton Lucas
 * Eduardo Henrique Ramos de Melo
 * Luiz Felipe Linhares Vieira
 * Gabriel Filipe Azevedo Montalvão
