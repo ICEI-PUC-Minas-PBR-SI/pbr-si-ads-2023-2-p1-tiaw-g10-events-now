@@ -114,7 +114,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|RESTRIÇÃO|ID                                        |
 |--|-------------------------------------------------------| 
 Para lidar com um prazo tão restrito devemos adotar uma abordagem de desenvolvimento ágil e focar no essencial como: Definir prioridades claras, listar o mínimo viável necessário para que a solução seja funcional e útil; Equipe colaborativa(com papéis definidos), comunicação eficiente e uma boa gestão de tarefas para acompanhar o progresso e garantir que as atividades estejam alinhadas com o cronograma. | 1
 Para lidar com à ausência de um módulo de back-end e um prazo apertado devemos : definir as prioridades do projeto, manter a interface do usuário o mais simples possível reduzir a quantidade de etapas e interações necessárias para realizar tarefas na aplicação que agilizará o uso da solução e uma documentação clara e concisa, que ajude na compreensão e na manutenção futura da aplicação. | 2
