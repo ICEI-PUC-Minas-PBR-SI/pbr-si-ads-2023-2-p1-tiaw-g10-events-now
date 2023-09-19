@@ -34,4 +34,13 @@
 >- Discutir andamento de partes do trabalho;
 >- Apoiar no processo de criação das partes escritas do trabalho.
  
-
+# Eduardo Henrique Ramos de Melo
+> - Criar, revisar, implementar Texto de apresentação do trabalho;
+> - Criar, revisar, implementar Introdução do trabalho;
+> - Estudar, criar, revisar, e estudar Justificativa;
+> - Criar, formatar e Editar Slides;
+> - Criar identidade visual e logo;
+> - Discutir andamento de partes do trabalho;
+> - Apoiar no processo de criação de partes escrittas do trabalho;
+> - Acompanhar preparação e organização de apresentações;
+> - Apresentação do Pitch (Story Telling);
