@@ -44,3 +44,13 @@
 > - Apoiar no processo de criação de partes escrittas do trabalho;
 > - Acompanhar preparação e organização de apresentações;
 > - Apresentação do Pitch (Story Telling);
+
+# Nathan Carvalho Cota:
+> - Realizar a comunicação com os orientadores e transmitir informações ao grupo
+> - Criar, revisar e implementar o tópico de público alvo;
+> - Criar, revisar e implementar o tópico de especificações do projeto e tecnologias;
+> - Estudar e revisar personas do projeto;
+> - Criar, revisar e implementar o tópico histórias de usuário;
+> - Discutir organização e divisão das partes do trabalho;
+> - Apoiar no processo de criação de partes escritas do trabalho;
+> - Acompanhar preparação e organização de apresentações;
