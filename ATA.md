@@ -56,8 +56,8 @@
 > - Acompanhar preparação e organização de apresentações;
 
 # Pedro Henrique Lima Bomfim:
-> - Desenvolver, aperfeiçoar e incorporar o texto de apresentação do trabalho.
-> - Elaborar, revisar e introduzir a seção de introdução do trabalho.
+> - Desenvolver, aperfeiçoar e incorporar o texto de apresentação do trabalho;
+> - Elaborar, revisar e introduzir a seção de introdução do trabalho;
 > - Realizar a criação do tópico “Restrições”;
-> - Participar do vídeo na apresentação das Restrições.
-> - Participar de discussões em grupo;
+> - Participar do vídeo na apresentação das Restrições;
+> - Participar de discussões em grupo.
