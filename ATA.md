@@ -17,7 +17,7 @@
 
 >- Criar, revisar, implementar Texto de apresentação do trabalho;
 >- Criar, revisar, implementar Introdução do trabalho;
->- Estudar, Criar, revisar, implementar Personas;
+>- Estudar, Criar, implementar, revisar Personas;
 >- Revisar, Incorporar novas Personas propostas pelo grupo;
 >- Criar, formatar e revisar Requisitos Funcionais e Não funcionais;
 >- Realizar discussões em grupo para aprimoramento de textos;
