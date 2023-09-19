@@ -54,3 +54,10 @@
 > - Discutir organização e divisão das partes do trabalho;
 > - Apoiar no processo de criação de partes escritas do trabalho;
 > - Acompanhar preparação e organização de apresentações;
+
+# Pedro Henrique Lima Bomfim:
+> - Desenvolver, aperfeiçoar e incorporar o texto de apresentação do trabalho.
+> - Elaborar, revisar e introduzir a seção de introdução do trabalho.
+> - Realizar a criação do tópico “Restrições”;
+> - Participar do vídeo na apresentação das Restrições.
+> - Participar de discussões em grupo;
