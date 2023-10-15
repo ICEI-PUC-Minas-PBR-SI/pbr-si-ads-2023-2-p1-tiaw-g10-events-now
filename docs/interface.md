@@ -6,11 +6,15 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
+> - ## Fluxograma Padrão Web:
+
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/128542732/47df4ac2-c1be-4502-a17f-5d00738acc5e)
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/128542732/9feb48e8-fb1d-49fe-88fb-e933165cf577)
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/128542732/a2fd2324-a624-43d5-b9ca-cd5abb28b352)
+
+> - ## Fluxograma Alternativo
 
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/128542732/03d72047-0cfe-48fe-91b2-88e077bcbd51)
 
