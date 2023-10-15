@@ -6,7 +6,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Tela 1 UserFlow](docs/img/USER FLOW 1.png)
+![Tela 1 UserFlow](img/USER FLOW 1.png)
 
 >![Exemplo de UserFlow](img/USER FLOW 2.png)
 
