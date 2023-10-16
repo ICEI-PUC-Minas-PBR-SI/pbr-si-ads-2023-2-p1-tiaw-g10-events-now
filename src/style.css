@@ -1,0 +1,199 @@
+* {
+    margin:0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+main{
+    margin-top: 8vh;
+}
+
+section{
+    margin-top: 4vh;
+}
+
+section:first-of-type{
+    margin-top: 0px;
+}
+
+
+/*CONFIG DOS BOTOTES*/
+.btn-now1{
+    color: white !important;
+    background-color: #81638b !important;
+    
+}
+
+.btn-now2{
+    color: white !important;
+    background-color: #b695c0 !important;
+    
+}
+
+.btn-now3{
+    color: white !important;    
+    background-color: #dac9df !important;
+    
+}
+
+/*CONFIGURAÇÃO DO HEADER*/
+header{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 7vh;
+    max-height: 7vh;
+    z-index: 999;
+}
+
+.navbar{
+    background-color: #81638b;
+    padding: 0;
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar-brand{
+    margin-left: 5vw;
+
+}
+
+.navbar-brand a{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand img{
+    height: 7vh;
+}
+
+.navLinks{
+    margin-right: 15vw;
+}
+
+
+.procurar{
+    background-color: aquamarine;
+    background-image: url(imagens/casamento.jpeg);
+    background-size: cover;
+    margin: 0 auto !important;
+    padding: 0 5vw !important;
+    width: 100vw;
+    flex-direction: column-reverse;
+}
+
+.descricao{
+    background-color: white;
+    opacity: 85%;
+    padding: 15px;
+    margin: 15px !important;
+    border-radius: 15px;
+}
+
+.searchbox{
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+
+.formulario{
+    flex-direction: column;
+   
+}
+
+
+/*CONFIGURAÇÃO DO CARD*/
+.card-img-top{
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.card{
+    border-radius: 30px;
+    box-shadow: rgb(161, 103, 216) 1px 1px 1px 2px;
+    border-color: rgb(161, 103, 216);
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+
+#botao{
+    border-radius: 50px;
+    width: 120px;
+    
+    background-color: rgb(190, 137, 240);
+    color: black
+    
+}
+
+#botao:hover{
+    background-color: rgb(199, 160, 236);
+    border: none;
+}
+
+
+/*CONFIGURAÇÃO DO FOOTER*/
+footer{
+    background-color: #81638b;
+    color: white;
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+}
+
+footer h6{
+    padding: 0;
+    margin: 0;
+    font-size: 0.8em;       
+}
+
+/*MEDIA QUERIES*/     
+ 
+@media (max-width: 991.98px) {
+
+
+}
+
+@media (min-width: 992px) {
+
+
+}   
+
+@media (max-width: 991.98px) {
+
+    
+
+}
+
+@media (min-width: 992px) {
+
+    .procurar{
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 1500px;
+        padding: 15px 15px 15px 0px !important;
+    }
+
+    .searchbox{
+        border-radius: 0px;
+        border-top-right-radius: 360px;
+        border-bottom-right-radius: 360px;
+    }
+
+}   

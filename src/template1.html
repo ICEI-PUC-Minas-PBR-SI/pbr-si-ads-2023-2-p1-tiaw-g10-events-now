@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Events Now</title>
+    <link rel="icon" type="image/x-icon" href="imagens/favicon.ico">
+  </head>
+
+  <body>
+    <div class="container-fluid mx-0 px-0 w-100">
+    <header>
+      <!--Header-->
+      <nav class="navbar navbar-expand-lg topo" data-bs-theme="dark" style="padding-top: 0px; padding-bottom: 0px;">
+        <div class="container-fluid py-0">
+          <a class="navbar-brand" href="#"><img src="imagens/vetor3.png" alt=""></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>          
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav ms-auto me-5 p">
+              <a class="nav-link mx-auto" href="#">Link 1</a>
+              <a class="nav-link mx-auto" href="#">Link 2</a>
+              <a class="nav-link mx-auto" href="#">Link 3</a>
+            </div>
+          </div>
+        </div>          
+      </nav>
+      
+    </header> 
+
+    <!--Main-->
+    <main class="container-fluid px-0">
+
+      <section class="row row-cols-12 d-flex container-fluid procurar">
+
+        <div class="col searchbox mx-0 ms-3">
+          <h1>O que procura?</h1>
+          <div class="d-flex formulario pe-5 align-content-center">
+            <input type="text" class="form-control" aria-label="Text input with dropdown button">
+            <div class="area d-flex">
+              <label class="input-group-text" for="inputGroupSelect01">Em:</label>
+              <select class="form-select" id="inputGroupSelect01">
+                <option selected>...</option>
+                <option value="1">Belo Horizonte</option>
+                <option value="2">Contagem</option>
+                <option value="3">Betim</option>
+              </select>
+            </div>
+            <button class="btn btn-dark" type="button" id="pesquisa">Pesquisar</button>
+          </div>
+        </div>
+
+        <div class="col descricao mx-0 ms-3" id="descricao">
+          <h2>Teste</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Optio unde, asperiores omnis exercitationem nesciunt 
+            consequuntur ducimus laborum aperiam esse sequi recusandae 
+            reprehenderit facere, ut officia excepturi, voluptatibus 
+           
+          </p>
+        </div>
+
+      </section>
+
+
+      <!--Cards-->
+      <section class="container py-1">
+        <hr>
+        <h1>Padrão de cards Events Now</h1>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 py-3">
+  
+          <div class="col">
+            <div class="card">
+              <img src="imagens/casamento.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">CASAMENTOS</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                  
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>
+  
+          <div class="col">
+            <div class="card">
+              <img src="imagens/SHOW.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">SHOWS</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                  
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col">
+            <div class="card">
+              <img src="imagens/infantil.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">FESTAS INFANTIS</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>  
+    
+          <div class="col">
+            <div class="card">
+              <img src="imagens/comedia.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">COMÉDIA</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col">
+            <div class="card">
+              <img src="imagens/reuniao.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">REUNIÕES</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>
+    
+          <div class="col">
+            <div class="card">
+              <img src="imagens/palestra.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">PALESTRAS</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
+              </div>
+              <div class="mb-5 d-flex justify-content-around">                
+                <button class="btn" id="botao">Ver mais</button>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
+      
+    </main>
+
+    <footer>
+      <h6>&copy; Copyright 2023 - Events Now - Av. Afonso Vaz de Melo, 1200 - Barreiro, Belo Horizonte, Minas Gerais 30640-070 </h6>
+    </footer>
+    
+    <script 
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" 
+      crossorigin="anonymous">
+    </script>
+    </div>
+  </body>
+</html>
