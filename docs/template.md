@@ -1,12 +1,22 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Barra de navegação 
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/1271eaa3-5e58-4ca5-9cae-7c54d72dc45a)
 
-Explique as guias de estilo utilizadas no seu projeto.
+Barra de pesquisa e descrição
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/d4a9503a-97df-4fdf-aa51-a0016aa7b408)
+
+Categorias
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/2ec1c225-ce17-4158-bd41-b55edc440a49)
+
+Rodapé
+![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/6d699447-d483-43d0-bd82-0300f63ebc90)
+
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+O design foi escolhido pensando numa interação agradável para os usuários, com cores e visuais atraentes, assim como modelos intuitivos e de fácil entendimento, para remover qualquer possívei barreira ou impecilho aos clientes.
+Uma navegação simples, com menus claros e proeminentes, ajuda os consumidores a encontrar facilmente os serviços que desejam e permite que os fornecedores promovam seus serviços de forma eficaz,  com uma barra de pesquisa avançada e filtros de pesquisa facilitam que a busca por serviços específicos, economizando tempo aos consumidores e fornecedores. Os cartões para categorias contam com animações suaves e elegantes para transformar numa experiência ainda mais tranquilizadora para os usuários proucurando contratar um serviço e ter suas dores resolvidas sem preocupações e estresse, e tudo com cores e identidade harmônica para transmitir tais ideias para qualquer um navegando pelo site
 
 
 ## Cores
