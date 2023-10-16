@@ -39,4 +39,7 @@
 > - Realizar o desenvolvimento do User Flow;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
+> - explicitar a dinâmica entre os wireframes;
+> - Apontar os requisitos funcionais atendidos no user flow;
+> - Editar o Design do User Flow para que seja lido de maneira intuitiva;
 > - Participar da confecção e apresentação da tarefa.
