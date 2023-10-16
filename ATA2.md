@@ -10,3 +10,9 @@
 > - Auxiliou no processo de Deisgn e identidade visual 
 > - Participou de discussões em grupo para organização do projeto
 > - Participou de discussões para processo de criação do UserFlow
+
+# Pedro Henrique Lima Bomfim
+> - Auxiliar o grupo nas atividades; 
+> - Participar do desenvolvimento do Template;
+> - Contribuiu para a elaboração da apresentação da tarefa.
+> - Participar em discussões em grupo;
