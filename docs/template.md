@@ -7,6 +7,7 @@ Barra de pesquisa e descrição
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/d4a9503a-97df-4fdf-aa51-a0016aa7b408)
 
 Categorias
+
 ![image](https://github.com/ICEI-PUC-Minas-PBR-SI/pbr-si-ads-2023-2-p1-tiaw-g10-events-now/assets/64663542/2ec1c225-ce17-4158-bd41-b55edc440a49)
 
 Rodapé
