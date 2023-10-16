@@ -22,3 +22,10 @@
 > - Auxiliar no processo de Deisgn e identidade visual 
 > - Participar de discussões em grupo para organização do projeto
 > - Participar dos commits das novas atualizações
+
+# Luiz Felipe Linhares Vieira
+> - Contribuí para o desenvolvimento do html do template
+> - Participei das escolhas do design do template
+> - Defini o modelo responsivo da caixa de pesquisas do template
+> - Participei das discussões em grupo
+
