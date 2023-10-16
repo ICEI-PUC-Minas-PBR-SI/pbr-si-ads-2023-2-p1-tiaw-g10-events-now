@@ -16,3 +16,9 @@
 > - Participar do desenvolvimento do Template;
 > - Contribuiu para a elaboração da apresentação da tarefa.
 > - Participar em discussões em grupo;
+
+# Nathan Filipe Carvalho Cota
+> - Responsável por organizar o processo e auxiliar a criação dos templates
+> - Auxiliar no processo de Deisgn e identidade visual 
+> - Participar de discussões em grupo para organização do projeto
+> - Participar dos commits das novas atualizações
