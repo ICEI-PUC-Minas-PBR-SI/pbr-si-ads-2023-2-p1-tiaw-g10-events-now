@@ -1,42 +1,31 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo.
-
-O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utilizados como referência:
-- Login do sistema: [https://repl.it/@rommelpuc/LoginApp](https://repl.it/@rommelpuc/LoginApp) 
-- Cadastro de Contatos: [https://repl.it/@rommelpuc/Cadastro-de-Contatos](https://repl.it/@rommelpuc/Cadastro-de-Contatos)
-
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
-## Exemplo
-
-## Requisitos Atendidos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
-
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
-|------|------------------------|------------|-----------------|
-|RF-001| O sistema deve exibir as notícias mais populares. | ALTA | index.html |
-|RF-002| Usuários autenticados podem registrar novas notícias. | ALTA | cadastro-noticia.html |
 
-## Descrição das estruturas:
+|ID     | Descrição do Requisito  | Prioridade | Artefato Criado |
+|-------|-----------------------------------------|----| ----|
+|RF.001  | Registro de Fornecedores de Serviços de Eventos| ALTA | flogin.html, fcadastro.html, fsenha.html |
+|RF.002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | flogin.html, fcadastro.html, fsenha.html |
+|RF.003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | flogin.html, fcadastro.html, fsenha.html |
+|RF.004  | Opção de Recuperação de Senha | ALTA | flogin.html, fcadastro.html, fsenha.html |
+|RF.005  | Perfil de Usuário para Fornecedores com Informações de Contato e Descrição de Serviços| ALTA | wireframe2.html  |
+|RF.006  | Perfil de Usuário para Consumidores com Informações Pessoais | ALTA | wireframe2.html |
+|RF.007  | Possibilidade de Pesquisa de Serviços por Categoria(Filtro)| ALTA | wireframe1.html |
+|RF.009  | Opção de Upload de Fotos de Trabalhos Anteriores para Fornecedores | ALTA | wireframe5.html  |
+|RF.010  | Avaliação e Classificação de Fornecedores Pelos Consumidores| ALTA | wireframe5.html  |
+|RF.011  | Opção de Comentários e Feedback para Serviços Prestados| ALTA | wireframe5.html  |
+|RF.012  | Sistema de Reservas de Serviços por Data e Localidade| ALTA | wireframe2.html  |
+|RF.016  | Painel de Controle para Fornecedores Gerenciarem Suas Reservas| MÉDIA | wireframe2.html  |
+|RF.018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | wireframe4.html |
+|RF.019  | Calendário para Acompanhamento de Eventos Agendados| MÉDIA | wireframe2.html  |
+|RF.028  | Fornecer associação entre os fornecedores| BAIXA | wireframe4.html |
 
-## Notícia
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-------------------------|----|
+|RNF-001  | O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA |  
+|RNF-006  | Velocidade de Carregamento Rápido | ALTA |  
+|RNF-009  | Interface de Usuário Intuitiva e Simples | ALTA |  
 
