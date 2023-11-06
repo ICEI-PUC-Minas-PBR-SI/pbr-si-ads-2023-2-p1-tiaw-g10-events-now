@@ -1,0 +1,27 @@
+.navbar_chat{    
+    background-color: #81638b;
+    padding: 0;  
+    color: white;
+}
+
+.chat-content {
+border: 1px solid #dcdcdc;
+padding: 15px;
+}
+
+.chat-messages-border {
+border: 1px solid #dcdcdc;
+height: 300px; /* Tamanho fixo da área de mensagens */
+padding: 15px;
+}
+
+.btn-sem-borda{
+    border: none !important;
+}
+.small-button {
+    position: -webkit-sticky; /* Para suporte a navegadores baseados no Webkit (Safari) */
+    position: sticky;
+    right: 0;
+    bottom: 0;
+    z-index: 999; 
+  }
