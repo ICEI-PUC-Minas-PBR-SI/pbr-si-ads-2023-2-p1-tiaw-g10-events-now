@@ -17,7 +17,7 @@
 |RF.011  | Opção de Comentários e Feedback para Serviços Prestados| ALTA | wireframe5.html  |
 |RF.012  | Sistema de Reservas de Serviços por Data e Localidade| ALTA | wireframe2.html  |
 |RF.016  | Painel de Controle para Fornecedores Gerenciarem Suas Reservas| MÉDIA | wireframe2.html  |
-|RF.018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | wireframe4.html |
+|RF.018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | wireframe4.html, chat_eventsNOW.html (pop-up) |
 |RF.019  | Calendário para Acompanhamento de Eventos Agendados| MÉDIA | wireframe2.html  |
 |RF.028  | Fornecer associação entre os fornecedores| BAIXA | wireframe4.html |
 
