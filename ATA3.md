@@ -1,5 +1,5 @@
 # Marco Aurélio Pires Campos Júnior
-> - Realizado o desenvolvimento do Wireframe 1;
+> - Realizado o desenvolvimento da página index;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
 > - Participar da confecção e apresentação da tarefa.
