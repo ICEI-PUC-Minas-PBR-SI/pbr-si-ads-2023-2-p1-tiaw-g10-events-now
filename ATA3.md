@@ -2,6 +2,7 @@
 > - Realizado o desenvolvimento da página index;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
+> - Organização das branchs;
 > - Participar da confecção e apresentação da tarefa.
 
 # Eduardo Henrique Ramos de Melo
