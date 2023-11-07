@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style-wire5.css">
   <link rel="stylesheet" href="style2.css">
+  <link rel="stylesheet" href="style_chat.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400&display=swap"
@@ -132,7 +133,60 @@
 
             <div class="row" id="orca"> <!--Orçamento-->
 
-              <button class="form-control w-75 m-auto rounded-4" id="orca">SOLICITAR ORÇAMENTO</button>
+              <button type="button" class="btn-sem-borda btn btn-outline-primary btn-now1 float-end mr-3 small-button" data-bs-toggle="modal" data-bs-target="#chatModal">
+                SOLICITAR ORÇAMENTO
+              </button>
+            <div class="modal fade" id="chatModal" tabindex="-1" aria-labelledby="chatModalLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header navbar_chat">
+                    <h5 class="modal-title " id="chatModalLabel">Conversas</h5>
+                    <button type="button" class="btn-close btn-now1" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body">
+                    <div class="row">
+                      <!-- Lado esquerdo-->
+                      <div class="col-4">
+                        <div class="chat-list">
+                          <ul class="list-group">
+                            <li class="list-group-item d-flex align-items-center">
+                              <img src="imagens/avatar1.png" class="me-2" alt="Avatar">
+                              Chat 1
+                            </li>
+                            <li class="list-group-item d-flex align-items-center">
+                              <img src="imagens/avatar2.png" class="me-2" alt="Avatar">
+                              Chat 2
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <!-- Lado direito -->
+                      <div class="col-8">
+                        <div class="chat-content">
+                          <!-- Nome da pessoa -->
+                          <div class="chat-header d-flex align-items-center">
+                            <img src="imagens/avatar1.png" class="me-2" alt="Avatar">
+                            <h4>Chat 1</h4>
+                          </div>
+                      
+                          <!-- Área de mensagens-->
+                          <div class="chat-messages-border">
+                          </div>
+                          <div class="chat-input d-flex">
+                            <input type="text" class="form-control" placeholder="Digite sua mensagem">
+                            <button type="button" class="btn btn-primary btn-now1">
+                              <img class="tamanho-icon-enviar" src="imagens/icone enviar.png">
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                      
+                      
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
 
             </div>
 
