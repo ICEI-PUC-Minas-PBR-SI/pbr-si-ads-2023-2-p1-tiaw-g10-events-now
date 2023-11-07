@@ -12,11 +12,10 @@
 > - Participar da confecção e apresentação da tarefa.
 
 # Pedro Henrique Lima Bomfim
-> - Realizado o desenvolvimento do Wireframe 2;
-> - Auxiliar o grupo nas atividades; 
-> - Participar de discussões em grupo;
-> - Participar da confecção e apresentação da tarefa.
-
+> - Realizado o desenvolvimento da pagina conta;
+> - Atividades de auxílio ao grupo;
+> - Envolvimento em discussões coletivas;
+> - Contribuição na elaboração e apresentação da tarefa.
 # Nathan Filipe Carvalho Cota
 > - Realizado o desenvolvimento do Wireframe 4;
 > - Auxiliar o grupo nas atividades; 
