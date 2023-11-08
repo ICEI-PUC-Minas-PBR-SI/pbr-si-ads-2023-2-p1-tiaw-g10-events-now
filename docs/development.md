@@ -9,7 +9,7 @@ Instruções de acesso para as funcionalidades atuais do projeto
 - Acessar conta fornecedor: /src/conta-fornecedor.html
 - Tela de pesquisa: /src/pesquisa.html
 - Tela de serviços: /src/servico.html
-- Funcionalidade chat pop-up: /src/chat_eventsNOW.html 
+- Funcionalidade chat pop-up: /src/servico.html -> Botão "Solicitar Orçamento"
 
 
 ## Requisitos Atendidos
