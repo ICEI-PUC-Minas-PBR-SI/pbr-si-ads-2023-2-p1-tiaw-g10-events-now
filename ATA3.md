@@ -18,8 +18,10 @@
 > - Atividades de auxílio ao grupo;
 > - Envolvimento em discussões coletivas;
 > - Contribuição na elaboração e apresentação da tarefa.
+
 # Nathan Filipe Carvalho Cota
-> - Realizado o desenvolvimento do Wireframe 4;
+> - Realizado o desenvolvimento da pagina de conta do fornecedor;
+> - Preencher e organizar o documento de desenvolvimento;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
 > - Participar da confecção e apresentação da tarefa.
