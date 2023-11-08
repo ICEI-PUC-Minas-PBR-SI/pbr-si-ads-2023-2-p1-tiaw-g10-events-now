@@ -47,6 +47,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 
 ### Requisitos ainda não implementados 
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-008  | Inclusão de Preços para Cada Serviço| MÉDIA |
@@ -76,4 +77,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Login          | Numero (Inteiro)  | Identificador de usuário                  | joaopedro123                                   |
 | Senha          | Texto             | Senha de acesso                           | 12837Tzc#                                      |
 
+## Dados de usuário
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| CPF            | Numero (Inteiro)  | CPF do usuário                            | 15347588216                                    |
+| Telefone       | Numero (Inteiro)  | Telefone da conta                         | 31985783951                                    |
+| Email          | Texto             | Email do usuario                          | emailteste@gmail.com                           |
+| Endereço       | Texto             | Endereço do usuário                       | Avenida Afonso de Melo, 127                    |
 
+## Dados de contrato
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| ID             | Numero (Inteiro)  | ID do contrato registrado                 | 68391                                          |
+| Data           | Date              | Data da prestação do serviço              | 07-11-2023                                     |
+| Valor          | Numero (Double)   | Valor do serviço                          | 2999.90                                        |
