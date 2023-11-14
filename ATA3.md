@@ -1,23 +1,27 @@
 # Marco Aurélio Pires Campos Júnior
-> - Realizado o desenvolvimento do Wireframe 1;
+> - Realizado o desenvolvimento da página index;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
+> - Organização das branchs;
 > - Participar da confecção e apresentação da tarefa.
 
 # Eduardo Henrique Ramos de Melo
-> - Realizado o desenvolvimento do Wireframe 5;
+> - Realizado o desenvolvimento da aba de serviço, e index;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
 > - Participar da confecção e apresentação da tarefa.
+> - Correções gerais nas páginas;
+> - Verificação dos páginas;
 
 # Pedro Henrique Lima Bomfim
-> - Realizado o desenvolvimento do Wireframe 2;
-> - Auxiliar o grupo nas atividades; 
-> - Participar de discussões em grupo;
-> - Participar da confecção e apresentação da tarefa.
+> - Realizado o desenvolvimento da pagina conta;
+> - Atividades de auxílio ao grupo;
+> - Envolvimento em discussões coletivas;
+> - Contribuição na elaboração e apresentação da tarefa.
 
 # Nathan Filipe Carvalho Cota
-> - Realizado o desenvolvimento do Wireframe 4;
+> - Realizado o desenvolvimento da pagina de conta do fornecedor;
+> - Preencher e organizar o documento de desenvolvimento;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
 > - Participar da confecção e apresentação da tarefa.
