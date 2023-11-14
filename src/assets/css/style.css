@@ -17,24 +17,27 @@ section:first-of-type{
 }
 
 
-/*CONFIG DOS BOTOTES*/
-.btn-now1{
+/*CONFIG DAS CORES*/
+.color-now1{
     color: white !important;
     background-color: #81638b !important;
     
 }
 
-.btn-now2{
+.color-now2{
     color: white !important;
     background-color: #b695c0 !important;
     
 }
 
-.btn-now3{
+.color-now3{
     color: white !important;    
     background-color: #dac9df !important;
     
 }
+
+
+
 
 /*CONFIGURAÇÃO DO HEADER*/
 header{
