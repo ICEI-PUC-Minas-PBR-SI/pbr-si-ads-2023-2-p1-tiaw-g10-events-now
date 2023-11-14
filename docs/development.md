@@ -69,7 +69,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-031  | Ranking de eventos| BAIXA |
 
 
-## Descrição das estruturas:
+### Requisitos não Funcionais
 
 ## Login
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
