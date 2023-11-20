@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/build.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400&display=swap" rel="stylesheet">
@@ -15,159 +15,34 @@
 
   <body>
     <div class="container-fluid mx-0 px-0 w-100">
-    <header>
+    <header class="theme-now1">
       <!--Header-->
-      <nav class="navbar navbar-expand-lg topo" data-bs-theme="dark" style="padding-top: 0px; padding-bottom: 0px;">
+      <nav class="navbar navbar-expand-lg topo">
         <div class="container-fluid py-0">
-          <a class="navbar-brand" href="#"><img src="assets/imagens/vetor3.png" alt=""></a>
+          <a class="navbar-brand headerLogo" href="#"><img src="assets/imagens/vetor3.png" alt=""></a>
+          <p>Events Now</p>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
-          </button>          
+          </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ms-auto me-5 p">
+              <form action="" class="headerSearch">
+              <label for="">
+                <img src="assets/imagens/whatsapp.svg" alt="">
+                <input type="text" placeholder="Pesquisar evento ou fornecedor">  
+              </label>         
+          </form>   
               <a class="nav-link mx-auto" href="wireframe2.html">Perfil<a>
               <a class="nav-link mx-auto" href="#">Pesquisa</a>
               <a class="nav-link mx-auto" href="wireframe4.html">Conta</a>
             </div>
           </div>
-        </div>          
+        </div>
       </nav>
-      
     </header> 
 
     <!--Main-->
-    <main class="container-fluid px-0">
-
-      <section class="row row-cols-12 d-flex container-fluid procurar">
-
-        <div class="col searchbox mx-0 ms-3">
-          <h1>Oque procura?</h1>
-          <div class="d-flex formulario pe-5 align-content-center">
-            <input type="text" class="form-control" aria-label="Text input with dropdown button">
-            <div class="area d-flex">
-              <label class="input-group-text" for="inputGroupSelect01">Em:</label>
-              <select class="form-select" id="inputGroupSelect01">
-                <option selected>...</option>
-                <option value="1">Belo Horizonte</option>
-                <option value="2">Contagem</option>
-                <option value="3">Betim</option>
-              </select>
-            </div>
-            <button class="btn btn-dark" type="button" id="pesquisa">Pesquisar</button>
-          </div>
-        </div>
-
-        <div class="col descricao mx-0 ms-3" id="descricao">
-          <h2>Teste</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Optio unde, asperiores omnis exercitationem nesciunt 
-            consequuntur ducimus laborum aperiam esse sequi recusandae 
-            reprehenderit facere, ut officia excepturi, voluptatibus 
-           
-          </p>
-        </div>
-
-      </section>
-
-
-      <!--Cards-->
-      <section class="container py-1">
-        <hr>
-        <h1>Espaços de Festa, Belo Horizonte.</h1>
-
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 py-3">
-  
-          <div class="col">
-            <div class="card"> 
-              <img src="assets/imagens/casamento.jpeg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                  
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>
-  
-          <div class="col">
-            <div class="card">
-              <img src="assets/imagens/SHOW.jpg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                  
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>
     
-          <div class="col">
-            <div class="card">
-              <img src="assets/imagens/infantil.jpeg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>  
-    
-          <div class="col">
-            <div class="card">
-              <img src="assets/imagens/comedia.jpg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>
-    
-          <div class="col">
-            <div class="card">
-              <img src="assets/imagens/reuniao.jpeg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>
-    
-          <div class="col">
-            <div class="card">
-              <img src="assets/imagens/palestra.jpeg" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">Espaço X</h5>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos accusantium amet similique velit iste.</p>
-              </div>
-              <div class="mb-5 d-flex justify-content-around">                
-                <a href="wireframe5.html"><button class="btn" id="botao">Ver mais</button></a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </section>
-
-      <div class="row"> <!-- Avanço Pag-->
-        <div class="col-md-12" style="text-align: center;">
-            <button class="rounded-4 mt-2 m-1 p-1">Anterior</button>
-            <button class="rounded-4 m-1 p-1" style="width: 40px;">1</button>
-            <button class="rounded-4 m-1 p-1">Seguinte</button>
-        </div>
-      </div>
-      
-    </main>
 
     <footer class="mt-4">
       <h6>&copy; Copyright 2023 - Events Now - Av. Afonso Vaz de Melo, 1200 - Barreiro, Belo Horizonte, Minas Gerais 30640-070 </h6>
