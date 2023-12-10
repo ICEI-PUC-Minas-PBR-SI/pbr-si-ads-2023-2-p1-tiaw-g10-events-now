@@ -112,7 +112,6 @@ header{
 /*CONFIGURAÇÃO DO CARD*/
 .card-img-top{
     border-radius: 40px;
-    padding: 20px;
 }
 
 .card{
@@ -204,12 +203,23 @@ padding: 15px;
 #logolog{
     background-color:#81638b;
     width: 20vh;
-    border-radius: 110px;
+    border-radius: 360px;
 }
 
 #apreslogin{
     width: 100%;
     margin: 10px;
+}
+
+#login-column{
+    max-width: 350px !important;
+}
+#login-row{
+    min-height: 100vh !important;
+}
+
+#signup-column{
+    max-width: 350px !important;
 }
 
 /*MEDIA QUERIES*/     
