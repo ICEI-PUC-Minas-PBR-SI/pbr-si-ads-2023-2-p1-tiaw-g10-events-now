@@ -115,7 +115,7 @@ async function addUser (nome, login, senha, email) {
         //db_usuarios.usuarios.push (usuario);
         // Salva o novo banco de dados com o novo usuário no localStorage
         localStorage.setItem('db_usuarios', JSON.stringify (db_usuarios));
-        fetch(apiUrl, {
+        await fetch(apiUrl, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
