@@ -109,10 +109,19 @@ header{
 }
 
 
-/*CONFIGURAÇÃO DO CARD*/
+/* - - - - - - SERVIÇOS  - - - - - - */
+
+#menu {
+ /* background-color: rgb(206, 186, 241); */
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
 .card-img-top{
     border-radius: 40px;
+    padding: 15px;
 }
+
 
 .card{
     border-radius: 30px;
@@ -122,12 +131,16 @@ header{
 }
 
 .card:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
 
 .card-body{
-    padding: 25px;
+    padding: 20px;
     margin-top: -15px;
+}
+
+p {
+    text-align: justify;
 }
 
 #botao{
@@ -135,8 +148,7 @@ header{
     width: 120px;
     
     background-color: rgb(190, 137, 240);
-    color: black
-    
+    color: black    
 }
 
 #botao:hover{
