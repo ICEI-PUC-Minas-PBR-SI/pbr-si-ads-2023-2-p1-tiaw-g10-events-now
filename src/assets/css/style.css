@@ -157,6 +157,18 @@ p {
 }
 
 
+.btn-now1{
+    color: white !important;
+    background-color: #81638b !important;
+    
+}
+
+.btn-now1.selecionado{
+    color: white !important;    
+    background-color: black !important;
+    
+}
+
 /*CONFIGURAÇÃO DO FOOTER*/
 footer {
     position: fixed;
