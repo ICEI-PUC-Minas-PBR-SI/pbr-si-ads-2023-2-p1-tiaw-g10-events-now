@@ -30,7 +30,7 @@ function initLoginApp () {
 };
 
 // Verifica se o login do usuário está ok e, se positivo, direciona para a página inicial
-async function checkCredentials(login, password) {
+async function checkCredentials(email, password) {
     return fetch(apiUrl)
       .then(response => {
         if (!response.ok) {
@@ -40,7 +40,7 @@ async function checkCredentials(login, password) {
       })
       .then(data => {
         // Check if any user in the data has the provided login and password
-        const match = data.find(user => user.login === login && user.password === password);
+        const match = data.find(user => user.email === email && user.password === password);
         
         if(!!match){
             usuarioCorrente.id = match.id;
