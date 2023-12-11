@@ -69,76 +69,54 @@ Além dos casos de teste citados acima, a conexão com API e JSON server também
 
 # Testes de Usabilidade
 
-O objetivo do Plano de Testes de Usabilidade é obter informações quanto à expectativa dos usuários em relação à  funcionalidade da aplicação de forma geral.
-
-Para tanto, elaboramos quatro cenários, cada um baseado na definição apresentada sobre as histórias dos usuários, definido na etapa das especificações do projeto.
-
-Foram convidadas quatro pessoas que os perfis se encaixassem nas definições das histórias apresentadas na documentação, visando averiguar os seguintes indicadores:
-
-Taxa de sucesso: responde se o usuário conseguiu ou não executar a tarefa proposta;
-
-Satisfação subjetiva: responde como o usuário avalia o sistema com relação à execução da tarefa proposta, conforme a seguinte escala:
-
-1. Péssimo; 
-2. Ruim; 
-3. Regular; 
-4. Bom; 
-5. Ótimo.
-
-Tempo para conclusão da tarefa: em segundos, e em comparação com o tempo utilizado quando um especialista (um desenvolvedor) realiza a mesma tarefa.
-
-Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as informações pessoais dos usuários que participaram do teste não foram coletadas, tendo em vista a ausência de Termo de Consentimento Livre e Esclarecido.
-
-
-Apresente os cenários de testes utilizados na realização dos testes de usabilidade da sua aplicação. Escolha cenários de testes que demonstrem as principais histórias de usuário sendo realizadas. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
-
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
+Testes de usabilidade CT01, CT02, CT03 e CT04. Respectivamente assosciados aos requisitos RF001 e RF002, RF-003 e RF-004, RF-007, RF011.
 
 ## Cenários de Teste de Usabilidade
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
-
-
+| 1             | Você é uma pessoa que se interessou pela plataforma Events Now e deseja criar uma nova conta e acessa-la para conhecer mais. |
+| 2             | Você é um usuário que precisa encontrar um serviço de buffet para seu evento e não tem necessidade em ver outras opções. |
+| 3             | Você é uma pessoa que encontrou um serviço agradável e deseja entrar em contato com o fornecedor para receber mais informações e o valor do orçamento.|
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você é uma pessoa que se interessou pela plataforma Events Now e deseja criar uma nova conta e acessa-la para conhecer mais
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    | 42.52 segundos                  |
+| 2       | SIM             | 5                    | 31.24 segundos                  |
+| 3       | SIM             | 5                    | 38.12 segundos                  |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 100%           | 5               | 37.29 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 18.13 segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: Achei o site extremamente prático e intuitivo. 
+    Não tive dificuldades de realizar o cadastro, foi bem simples e rápido.
+    Consegui realizar facilmente o cadastro na plataforma, não encontrei problemas
 
 
 
 
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Você é um usuário que precisa encontrar um serviço de buffet para seu evento e não tem necessidade em ver outras opções
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 5                    | 36.21 segundos                          |
+| 1       | SIM             | 5                    | 6.34 segundos                          |
+| 2       | SIM             | 4                    | 7.23 segundos                          |
+| 3       | NÃO             | 2                    | ----                          |
+| 4       | SIM             | 5                    | 5.43 segundos                          |
 |  |  |  |  |
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     | 75%           | 4             | 6.33 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 4.57 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: O serviço é simples de ser encontrado e o site fácil de se utilizar é fácil de acessar.
+    Consegui encontrar tranquilamente o serviço desjeado, porém senti a falta de mais opções de filtros na hora da pesquisa.
+    Não consegui encontrar o serviço que estava buscando, escrevi bufet na caixa e não apresentou resultado.
+    Achei o filtro simples, prático e intuitivo, nada a pontuar.
 
 
 
