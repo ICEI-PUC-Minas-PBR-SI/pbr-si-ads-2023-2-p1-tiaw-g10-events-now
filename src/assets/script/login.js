@@ -50,6 +50,9 @@ async function checkCredentials(email, password) {
 
             // Salva os dados do usuário corrente no Session Storage, mas antes converte para string
         sessionStorage.setItem ('usuarioCorrente', JSON.stringify (usuarioCorrente));
+        sessionStorage.setItem('usuarioCorrente_login', usuarioCorrente.login);
+        sessionStorage.setItem('usuarioCorrente_email', usuarioCorrente.email);
+        sessionStorage.setItem('usuarioCorrente_nome', usuarioCorrente.nome);
         }
         return !!match; // Convert match result to a boolean     
     })
