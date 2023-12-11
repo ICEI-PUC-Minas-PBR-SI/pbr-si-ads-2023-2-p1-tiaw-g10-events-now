@@ -1,3 +1,24 @@
+
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    var modal = new bootstrap.Modal(document.getElementById('chatModal'));
+    document.getElementById('btnAbrirModal').addEventListener('click', function () {
+      var valueTextArea = document.getElementById('textAreaSolicitacaoDeOrca').value;
+      if (valueTextArea.trim() !== '') {
+        localStorage.setItem("msg", valueTextArea)
+        modal.show();    
+        setTimeout(function () {
+          modal.hide();         
+          document.getElementById('textAreaSolicitacaoDeOrca').value = ''; // Limpa o texto do textarea
+        }, 3000);
+      } else {
+        alert("Campo Vazio!");
+      }
+    });
+  });
+
+
 function carregarDados() {
     const url = 'https://jsonserver-1.pedrohenriquel5.repl.co/imagensCasamento';
 
@@ -49,8 +70,12 @@ document.addEventListener('DOMContentLoaded', function () {
 </style>`;
         }
         galeriaCasamento.innerHTML = strTextoHTML;
-
+  
     });
 });
+
+
+document.getElementById('mensagem').innerText = localStorage.getItem("msg");
+
 
 
