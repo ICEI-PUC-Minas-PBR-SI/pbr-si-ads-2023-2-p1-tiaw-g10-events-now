@@ -107,10 +107,10 @@ Cenário 2: Você é um usuário que precisa encontrar um serviço de buffet par
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 6.34 segundos                          |
 | 2       | SIM             | 4                    | 7.23 segundos                          |
-| 3       | NÃO             | 2                    | ----                          |
+| 3       | NÃO             | 2                    | ----                                   |
 | 4       | SIM             | 5                    | 5.43 segundos                          |
 |  |  |  |  |
-| **Média**     | 75%           | 4             | 6.33 segundos                           |
+| **Média**     | 75%           | 4             | 6.33 segundos                             |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 4.57 segundos |
 
 
