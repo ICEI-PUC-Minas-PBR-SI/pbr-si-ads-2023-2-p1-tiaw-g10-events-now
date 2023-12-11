@@ -1,0 +1,56 @@
+:root{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    --white: white;
+    --en1: #81638b;
+    --en2: #b695c0;
+    --en3: #dac9df;  
+     
+}
+
+.theme-now1{
+    color: var(--white);
+    background-color: var(--en1);    
+}
+
+.theme-now1 a{
+    color: white;
+}
+
+/*HEADER*/
+header nav{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.headerLogo img{
+    width: 50px;
+}
+
+.headerSearch{
+    border-radius: 20px;
+    border:none;    
+    background-color: var(--white);
+    border: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-width: 400px;
+}
+
+.headerSearch label{
+    width: 100%;
+}
+
+.headerSearch input{
+    border: none;
+    width: 85%;    
+    text-align: center;
+}
+
+.headerSearch img{
+    width: 10%;
+    height: 15px;
+}
