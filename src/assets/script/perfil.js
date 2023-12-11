@@ -2,7 +2,7 @@
 var fotousu = "<img src='assets/imagens/avatar1.png' alt='Imagem do avatar'>";
 
 // Dados iniciais
-var dados1 = [fotousu, "20 anos", "Procuro festa para casamento"];
+var dados1 = [fotousu + "Gabriel Zabruzunski", "20 anos", "Procuro festa para casamento"];
 var dados2 = ["Costumo de gostar de Lugares e ambientes rosas", "Gosto de cisnes e flores", "Procuro serviço barato e prático"];
 var dados3 = ["Evento marcado para 24 de fevereiro"]
 var dados4 = ["Buffet da JU", "Bolos da Camila"]
