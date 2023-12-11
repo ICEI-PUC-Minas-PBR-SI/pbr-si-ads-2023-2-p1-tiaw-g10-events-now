@@ -63,7 +63,8 @@ Testes de software CT01, CT02, CT03 e CT04. Respectivamente assosciados aos requ
 
 ## Avaliação dos Testes de Software
 
-Os testes ocorreram todos como o esperado, foram realizado durante e ao final da implementação das funcionalidades e apresentaram o resultado desejado. Além dos casos de teste citados acima, a conexão com API e JSON server também ocorreu corretamente, trazendo os dados de imagens para alguns cartões da aplicação
+Os testes ocorreram todos como o esperado, foram realizado durante e ao final da implementação das funcionalidades e apresentaram o resultado desejado. Detre os pontos fortes foi analisado a implementação correta e coesa das funcionalidades práticas, e dentre os pontos fracos a ausência de funcionalidades mais complexas. É de interesse do grupo seguir adiante com mais implementações e dar ainda mais vida ao projeto.
+Além dos casos de teste citados acima, a conexão com API e JSON server também ocorreu corretamente, trazendo os dados de imagens para alguns cartões da aplicação
 
 
 # Testes de Usabilidade
