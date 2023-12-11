@@ -122,17 +122,34 @@ Cenário 2: Você é um usuário que precisa encontrar um serviço de buffet par
 
 
 
+ Cenário 3: Você é uma pessoa que encontrou um serviço agradável e deseja entrar em contato com o fornecedor para receber mais informações e o valor do orçamento.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 9.33 segundos                          |
+| 2       | SIM             | 3                    | 11.23 segundos                          |
+| 3       | SIM             | 4                    | 8.54 segundos                          |
+|  |  |  |  |
+| **Média**     | 100%           | 4             | 6.33 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 6.55 segundos |
+
+
+    Comentários dos usuários: 
+    Foi bem tranquilo de enviar a mensagem, achei intuitivo e os botões são chamativos.
+    Consegui enviar a mensagem com facilidade, porém gostaria de continuar a conversa na hora.
+    Achei o botão chamativo e o processo simples, mas gostaria saber quando receberei retorno.
+
+
+
+
 
 ## Avaliação dos Testes de Usabilidade
 
 
-Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
+Com base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que praticamente todos os cenários  foram concluídos com sucesso.
 
-Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo).
+A aplicação também obteve boa satisfação dos usuários, com as médias das avaliações em cada um dos cenários variando entre 4 (bom) e 5 (ótimo).
 
-Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
-
-Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
-
+Com relação ao tempo para conclusão de cada cenário, houve pequena diferença entre a média de tempo dos usuários e o tempo do especialista na maioria dos cenários. Evidenciando uma boa usabilidade e interfaces interativas para o usuário na maioria dos casos
 
 
