@@ -2,10 +2,13 @@
 var fotousu = "<img src='assets/imagens/avatar1.png' alt='Imagem do avatar'>";
 
 // Dados iniciais
-var dados1 = [fotousu + "Gabriel Zabruzunski", "20 anos", "Procuro festa para casamento"];
-var dados2 = ["Costumo de gostar de Lugares e ambientes rosas", "Gosto de cisnes e flores", "Procuro serviço barato e prático"];
-var dados3 = ["Evento marcado para 24 de fevereiro"]
-var dados4 = ["Buffet da JU", "Bolos da Camila"]
+var nome = sessionStorage.getItem('usuarioCorrente_nome')
+var login= sessionStorage.getItem('usuarioCorrente_login')
+var email = sessionStorage.getItem('usuarioCorrente_email')
+var dados1 = [`${fotousu} ${login}`];
+var dados2 = [`Nome completo: ${nome}`, `Email: ${email}`, "Nascimento: 04/07/2000"];
+var dados3 = ["Evento com O Buffet BH: 24/02/2024"]
+var dados4 = ["- Buffet da JU", "- Bolos da Camila", "- O Buffet BH"]
 var dados5 = ["Rua Anton...- ...91"]
 
 // Referência para a lista de dados
