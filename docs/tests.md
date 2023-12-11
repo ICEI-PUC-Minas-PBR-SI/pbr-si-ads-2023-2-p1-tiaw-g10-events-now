@@ -43,15 +43,23 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
+|*Caso de Teste*                                 |*CT-01 - Criar uma conta*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Requisito Associado | RF.001	Registro de Fornecedores de Serviços de Eventos	ALTA	flogin.html, fcadastro.html, fsenha.html
+|Requisito Associado | RF.002	Registro de Consumidores Interessados em Contratar Serviços de Evento|
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+
+|*Caso de Teste*                                 |*CT-02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF.003	Autenticação de Usuários por Meio de Login e Senha |
+
+|*Caso de Teste*                                 |*CT-03 - Filtro de serviços*                                         |
+|---|---|
+|Requisito Associado | RF.007	Possibilidade de Pesquisa de Serviços por Categoria(Filtro) |
+
+|*Caso de Teste*                                 |*CT-04 - Solicitar orçamento*                                         |
+|---|---|
+|Requisito Associado | RF.011	Opção de Comentários e Feedback para Serviços Prestados |
 
 
 ## Avaliação dos Testes de Software
