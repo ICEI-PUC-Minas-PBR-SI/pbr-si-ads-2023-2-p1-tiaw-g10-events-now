@@ -19,8 +19,12 @@
 
 
 # Danton Lucas Ribeiro Rodrigues
-
-
+> - Realização dos testes;
+> - Confecção e auxilio do Javascript nas páginas;
+> - Auxiliar o grupo nas atividades; 
+> - Participar de discussões em grupo;
+> - Participar da confecção e apresentação da tarefa.
+> - Auxilio a requisição da API.
 # Gabriel Filipe Azevedo Montalvão
 
 
