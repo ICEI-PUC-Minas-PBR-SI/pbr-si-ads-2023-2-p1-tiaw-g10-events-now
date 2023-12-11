@@ -25,20 +25,36 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta parte 1**
+**Caso de Teste** | **CT01 - Criar conta**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
+**Procedimento**  | 1) Usuário informa nome, email, senha e confirmação de senha e clica no botão "Cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Requisitos associados** | RF-001, RF-002
+**Resultado esperado** | Confirmar cadastro, enviar dados para API e seguir para tela de login
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT02 - Acessar conta**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
+**Procedimento**  | 1) Usuário informa seu email e senha. A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação direciona o usuário para a tela inicial.
+**Requisitos associados** | RF-003, RF-004
+**Resultado esperado** | Acessar a aplicação
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT03 - Filtrar serviços**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário digita na pesquisa o nome do serviço desejado.
+**Requisitos associados** | RF-007
+**Resultado esperado** | Ocultar os serviços que não batem com o filtro
+**Dados de entrada** | Inserção do serviço desejado na caixa do filtro.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Solicitar orçamento**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário digita na caixa de texto o que deseja saber sobre o serviço.
+**Requisitos associados** | RF-011
+**Resultado esperado** | Retornar o sucesso no envio da mensagem.
+**Dados de entrada** | Inserção da pergunta na caixa do orçamento
 **Resultado obtido** | Sucesso.
 
 ## Registro dos Testes de Software
