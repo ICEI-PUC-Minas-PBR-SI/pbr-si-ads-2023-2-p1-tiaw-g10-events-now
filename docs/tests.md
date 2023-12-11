@@ -57,7 +57,7 @@ Testes de software CT01, CT02, CT03 e CT04. Respectivamente assosciados aos requ
 
 |*Caso de Teste*                                 |*CT-04 - Solicitar orçamento*                                         |
 |---|---|
-|Requisito Associado | RF.011	Opção de Comentários e Feedback para Serviços Prestados |
+|Requisito Associado| RF.011	Opção de Comentários e Feedback para Serviços Prestados |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1dKjTwRYIcBNpv5zTZvPMwr_6OUfKjCvm/view?usp=sharing | 
 
 
