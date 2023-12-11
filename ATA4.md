@@ -24,6 +24,7 @@
 
 # Nathan Filipe Carvalho Cota
 > - Confecção e auxilio do Javascript nas páginas;
+> - Confecção do documento de testes;
 > - Participar da criação do JSON Server da aplicação;
 > - Criação do filtro de serviços da aplicação
 > - Auxiliar o grupo nas atividades; 
