@@ -93,7 +93,8 @@ Cenário 1: Você é uma pessoa que se interessou pela plataforma Events Now e d
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 18.13 segundos |
 
 
-    Comentários dos usuários: Achei o site extremamente prático e intuitivo. 
+    Comentários dos usuários: 
+    Achei o site extremamente prático e intuitivo. 
     Não tive dificuldades de realizar o cadastro, foi bem simples e rápido.
     Consegui realizar facilmente o cadastro na plataforma, não encontrei problemas
 
@@ -113,7 +114,8 @@ Cenário 2: Você é um usuário que precisa encontrar um serviço de buffet par
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 4.57 segundos |
 
 
-    Comentários dos usuários: O serviço é simples de ser encontrado e o site fácil de se utilizar é fácil de acessar.
+    Comentários dos usuários: 
+    O serviço é simples de ser encontrado e o site fácil de se utilizar é fácil de acessar.
     Consegui encontrar tranquilamente o serviço desjeado, porém senti a falta de mais opções de filtros na hora da pesquisa.
     Não consegui encontrar o serviço que estava buscando, escrevi bufet na caixa e não apresentou resultado.
     Achei o filtro simples, prático e intuitivo, nada a pontuar.
