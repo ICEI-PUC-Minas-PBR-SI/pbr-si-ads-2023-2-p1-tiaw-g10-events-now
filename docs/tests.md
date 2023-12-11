@@ -38,8 +38,6 @@ Testes de software CT01, CT02, CT03 e CT04. Respectivamente assosciados aos requ
 
 ## Registro dos Testes de Software
 
-Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
-
 |*Caso de Teste*                                 |*CT-01 - Criar uma conta*                                         |
 |---|---|
 |Requisito Associado | RF.001	Registro de Fornecedores de Serviços de Eventos	ALTA	flogin.html, fcadastro.html, fsenha.html
