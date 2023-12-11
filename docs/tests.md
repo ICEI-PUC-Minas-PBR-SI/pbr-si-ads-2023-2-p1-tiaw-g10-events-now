@@ -23,7 +23,7 @@ Testes de software CT01, CT02, CT03 e CT04. Respectivamente assosciados aos requ
 **Caso de Teste** | **CT03 - Filtrar serviços**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário digita na pesquisa o nome do serviço desejado.
-**Requisitos associados** | RF-007
+**Requisitos associados** | RF-007 
 **Resultado esperado** | Ocultar os serviços que não batem com o filtro
 **Dados de entrada** | Inserção do serviço desejado na caixa do filtro.
 **Resultado obtido** | Sucesso.
