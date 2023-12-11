@@ -47,19 +47,23 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF.001	Registro de Fornecedores de Serviços de Eventos	ALTA	flogin.html, fcadastro.html, fsenha.html
 |Requisito Associado | RF.002	Registro de Consumidores Interessados em Contratar Serviços de Evento|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1EXPbsaJHE-1HGu7Cq6SLj9Bwgnj2_52Y/view?usp=sharing | 
 
 
 |*Caso de Teste*                                 |*CT-02 - Efetuar Login (usuário autenticado)*                                         |
 |---|---|
 |Requisito Associado | RF.003	Autenticação de Usuários por Meio de Login e Senha |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1G2JY3Dq9vSh_BHlOXGuf32Yhem8CdAvH/view?usp=sharing | 
 
 |*Caso de Teste*                                 |*CT-03 - Filtro de serviços*                                         |
 |---|---|
 |Requisito Associado | RF.007	Possibilidade de Pesquisa de Serviços por Categoria(Filtro) |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1FclnPimDSgkDuTiFQ6mrF9W4h6AOdNa3/view?usp=sharing | 
 
 |*Caso de Teste*                                 |*CT-04 - Solicitar orçamento*                                         |
 |---|---|
 |Requisito Associado | RF.011	Opção de Comentários e Feedback para Serviços Prestados |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1dKjTwRYIcBNpv5zTZvPMwr_6OUfKjCvm/view?usp=sharing | 
 
 
 ## Avaliação dos Testes de Software
