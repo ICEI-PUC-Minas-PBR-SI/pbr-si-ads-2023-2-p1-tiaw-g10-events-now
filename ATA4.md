@@ -32,8 +32,8 @@
 > - Participar da confecção e apresentação da tarefa.
 
 # Luiz Felipe Linhares Vieira
-> - Confecção e auxilio do Javascript nas páginas;
-> - Confeccção do login e cadastro da aplicação;
+> - Desenvolvimento e auxilio do Javascript nas páginas;
+> - Desenvolvimento do login e cadastro da aplicação;
 > - Participar da criação do JSON Server da aplicação;
 > - Auxiliar o grupo nas atividades; 
 > - Participar de discussões em grupo;
