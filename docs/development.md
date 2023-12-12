@@ -2,8 +2,8 @@
 
 Instruções de acesso para as funcionalidades atuais do projeto
 
-- Login: /src/flogin.html; /src/fsenha.html
-- Cadastro: /src/fcadastro.html
+- Login: /src/login.html; /src/senha.html
+- Cadastro: /src/cadastro.html
 - Página inicial: /src/index.html
 - Acessar conta: /src/conta.html
 - Acessar conta fornecedor: /src/conta-fornecedor.html
