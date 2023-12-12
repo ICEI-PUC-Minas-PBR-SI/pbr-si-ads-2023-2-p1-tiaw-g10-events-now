@@ -21,10 +21,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID     | Descrição do Requisito  | Prioridade | Artefato Criado |
 |-------|-----------------------------------------|----| ----|
-|RF.001  | Registro de Fornecedores de Serviços de Eventos| ALTA | flogin.html, fcadastro.html, fsenha.html |
-|RF.002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | flogin.html, fcadastro.html, fsenha.html |
-|RF.003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | flogin.html, fcadastro.html, fsenha.html |
-|RF.004  | Opção de Recuperação de Senha | ALTA | flogin.html, fcadastro.html, fsenha.html |
+|RF.001  | Registro de Fornecedores de Serviços de Eventos| ALTA | login.html, cadastro.html, senha.html |
+|RF.002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | login.html, cadastro.html, senha.html |
+|RF.003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | login.html, cadastro.html, senha.html |
+|RF.004  | Opção de Recuperação de Senha | ALTA | login.html, cadastro.html, senha.html |
 |RF.005  | Perfil de Usuário para Fornecedores com Informações de Contato e Descrição de Serviços| ALTA | conta.html  |
 |RF.006  | Perfil de Usuário para Consumidores com Informações Pessoais | ALTA | conta.html |
 |RF.007  | Possibilidade de Pesquisa de Serviços por Categoria(Filtro)| ALTA | pesquisa.html |
@@ -34,7 +34,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF.012  | Sistema de Reservas de Serviços por Data e Localidade| ALTA | servico.html  |
 |RF.016  | Painel de Controle para Fornecedores Gerenciarem Suas Reservas| MÉDIA | conta-fornecedor.html  |
 |RF.018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | conta-fornecedor.html |
-|RF.019  | Calendário para Acompanhamento de Eventos Agendados| MÉDIA | conta.html  |
+|RF.019  | Calendário para Acompanhamento de Eventos Agendados| MÉDIA | conta-cliente.html  |
 
 
 ### Requisitos não Funcionais
@@ -53,11 +53,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-008  | Inclusão de Preços para Cada Serviço| MÉDIA |
 |RF-013  | Integração com Diferentes Meios de Pagamento para Processamento de Transações Financeiras| MÉDIA |
 |RF-014  | Geração de Recibos e Comprovantes de Pagamento| BAIXA |
-|RF-015  | Notificações por E-mail ou Mensagem para Confirmação de Reservas|
+|RF-015  | Notificações por E-mail ou Mensagem para Confirmação de Reservas|BAIXA|
 |RF-017  | Permissão para Atualização de Informações de Perfil| BAIXA |
 |RF-020  | Opção de Compartilhar Detalhes do Evento com Convidados ou Clientes| BAIXA |
 |RF-021  | Integração com Redes Sociais para Compartilhamento de Serviços| MÉDIA | 
-|RF-022  | Opção de Cancelamento de Reservas com Regras Claras de Reembolso| ALTA |
+|RF-022  | Opção de Cancelamento de Reservas com Regras Claras de Reembolso| BAIXA |
 |RF-023  | Suporte para Atender a Diferentes Mercados(IDIOMAS REGIÕES)| BAIXA |
 |RF-024  | Integração com Sistema de Geolocalização para Sugestões Baseadas na Localização do Usuário| ALTA |
 |RF-025  |Relatório business: Emitir um relatório de tarefas no mês, que inclui dados e atividades do perfil profissional | BAIXA |
