@@ -179,5 +179,6 @@ function retirausuario(){
   }
 }
 
+
 // Exibe os dados iniciais
-dataList.innerHTML = retirausuario(); mostrardados(dados1); trocacor1();
+dataList.innerHTML = retirausuario(); trocacor1(); btn1();
