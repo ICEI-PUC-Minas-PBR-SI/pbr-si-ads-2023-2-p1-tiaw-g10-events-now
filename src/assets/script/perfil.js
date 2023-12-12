@@ -41,6 +41,13 @@ function btn5(){
 }
 
 
+// Adiciona um ouvinte de clique ao botão
+document.getElementById("btn1").addEventListener("click", trocacor1); 
+document.getElementById("btn2").addEventListener("click", trocacor2);
+document.getElementById("btn3").addEventListener("click", trocacor3); 
+document.getElementById("btn4").addEventListener("click", trocacor4); 
+document.getElementById("btn5").addEventListener("click", trocacor5); 
+
 
 // Função para trocar os dados para botao 1
 function trocarDados1() {
@@ -88,12 +95,6 @@ function trocarDados5() {
 }
 
 //MANIPULANDO A COR DO BOTÃO
-// Adiciona um ouvinte de clique ao botão
-document.getElementById("btn1").addEventListener("click", trocacor1); 
-document.getElementById("btn2").addEventListener("click", trocacor2);
-document.getElementById("btn3").addEventListener("click", trocacor3); 
-document.getElementById("btn4").addEventListener("click", trocacor4); 
-document.getElementById("btn5").addEventListener("click", trocacor5); 
 
 
 function trocacor1() {
@@ -167,8 +168,15 @@ function trocacor5() {
 //MANIPULANDO A TELA
 // Função para criar a lista os dados
 function mostrardados(dados) {
-  return dados.join("<div></div>"+"<p></p>"+"<p></p>"+"<p></p>");
+  return dados.join("<p></p>"+"<p></p>"+"<p></p>"+"<p></p>");
 }
 
 // Exibe os dados iniciais
-dataList.innerHTML = mostrardados(dados1); trocacor1();
+function retirausuario(){
+
+  if(nome == null)
+  {//Caso  usuário não esteja logado
+    window.location.href = 'login.html';
+  }
+}
+dataList.innerHTML = retirausuario(); mostrardados(dados1); trocacor1();
