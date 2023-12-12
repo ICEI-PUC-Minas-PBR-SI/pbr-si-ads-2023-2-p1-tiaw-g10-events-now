@@ -1,5 +1,13 @@
+// Dados de cadastro
+var nome = sessionStorage.getItem('usuarioCorrente_nome')
 
-
+//Retira usuário não cadastrado
+function retirausuario(){  
+    if(nome == null)
+    {//Caso  usuário não esteja logado
+      window.location.href = 'login.html';
+    }
+}
 
 document.addEventListener('DOMContentLoaded', function () {
     var modal = new bootstrap.Modal(document.getElementById('chatModal'));
@@ -75,7 +83,4 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-document.getElementById('mensagem').innerText = localStorage.getItem("msg");
-
-
-
+document.getElementById('mensagem').innerText = retirausuario(); localStorage.getItem("msg");//retira usuário não cadastrado e depois exibe dados
