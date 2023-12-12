@@ -171,12 +171,13 @@ function mostrardados(dados) {
   return dados.join("<p></p>"+"<p></p>"+"<p></p>"+"<p></p>");
 }
 
-// Exibe os dados iniciais
-function retirausuario(){
-
+//Retira usuário não cadastrado
+function retirausuario(){  
   if(nome == null)
   {//Caso  usuário não esteja logado
     window.location.href = 'login.html';
   }
 }
+
+// Exibe os dados iniciais
 dataList.innerHTML = retirausuario(); mostrardados(dados1); trocacor1();
