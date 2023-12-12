@@ -53,6 +53,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
+|RF-000  | Criação de JSON Server para API com dados e fotos	| ALTA | PEDRO |
 |RF-001  | Registro de Fornecedores de Serviços de Eventos	| ALTA | LUIZ|
 |RF-002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | LUIZ |
 |RF-003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | LUIZ |
