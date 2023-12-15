@@ -2,14 +2,11 @@
 const LOGIN_URL = "login.html";
 const apiUrl = 'https://eventsnow3--luiz-felipef215.repl.co/users';
 
-
 // Objeto para o banco de dados de usuários baseado em JSON
 var db_usuarios = {};
 
 // Objeto para o usuário corrente
 var usuarioCorrente = {};
-
-
 
 // Inicializa o usuarioCorrente e banco de dados de usuários da aplicação de Login
 function initLoginApp () {
