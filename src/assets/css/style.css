@@ -118,7 +118,6 @@ header{
 }
 
 .card-img-top{
-    border-radius: 40px;
     padding: 15px;
 }
 
@@ -141,14 +140,6 @@ header{
 
 p {
     text-align: justify;
-}
-
-#botao{
-    border-radius: 50px;
-    width: 120px;
-    
-    background-color: rgb(190, 137, 240);
-    color: black    
 }
 
 #botao:hover{

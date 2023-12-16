@@ -1,12 +1,12 @@
-// Dados de cadastro
-var nome = sessionStorage.getItem('usuarioCorrente_nome')
+const user = JSON.parse(sessionStorage.getItem('usuarioCorrente'));
 
-//Retira usuário não cadastrado
-function retirausuario() {
-    if (nome == null) {//Caso  usuário não esteja logado
-        window.location.href = 'login.html';
-    }
-}
+document.addEventListener('DOMContentLoaded', function () {
+  const user = JSON.parse(sessionStorage.getItem('usuarioCorrente'));
+
+  // Check if the user is null
+  if (user === null) {
+      // You can redirect to the login page
+      window.location.href = 'login.html';}})
 
 document.addEventListener('DOMContentLoaded', function () {
     var modal = new bootstrap.Modal(document.getElementById('chatModal'));
@@ -66,3 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         })
 });
+
+
+
+

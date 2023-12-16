@@ -143,6 +143,5 @@ function deleteUser(id) {
     fetch(`${apiUrl}/${id}`, {
         method: 'DELETE',
     })
-        .then(response => response.json())
-        
+        .then(response => response.json())        
 }
