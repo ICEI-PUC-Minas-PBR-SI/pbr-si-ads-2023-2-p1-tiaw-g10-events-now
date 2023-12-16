@@ -57,8 +57,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001  | Registro de Fornecedores de Serviços de Eventos	| ALTA | LUIZ|
 |RF-002  | Registro de Consumidores Interessados em Contratar Serviços de Evento | ALTA | LUIZ |
 |RF-003  | Autenticação de Usuários por Meio de Login e Senha | ALTA | LUIZ |
+|RF-004  | Registro de Fornecedores de Serviços e Eventos | ALTA | LUIZ |
+|RF-005  | Perfil de Usuario Para Fornecedores com informação para contato e Serviços | ALTA | DANTON E PEDRO |
 |RF-006  | Perfil de Usuário para Consumidores com Informações Pessoais | ALTA | GABRIEL |
 |RF-007  | Possibilidade de Pesquisa de Serviços por Categoria(Filtro)| ALTA | NATHAN |
+|RF-008  | UpLoad de Fotos para trabalhos anteriores de Fornecedores | ALTA | EDUARDO |
+|RF-009  | Exibição dinâmica dos serviços cadastrados na tela inicial | ALTA | LUIZ E GABRIEL |
 |RF-018  | Chat ou Sistema de Mensagens Internas para Comunicação entre Consumidores e Fornecedores| ALTA | DANTON E MARCO |
 
 ### Requisitos não Funcionais
@@ -66,6 +70,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade | Responsável  |
 |-------|-------------------------|----|---- |
 |RNF-001  | O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA | MARCO |
+|RNF-002  | Cores e aparecencia atrativas e agradáveis, design moderno | ALTA | EDUARDO|
 |RNF-006  | Velocidade de Carregamento Rápido | ALTA | EDUARDO |
 |RNF-009  | Interface de Usuário Intuitiva e Simples | ALTA | DANTON E EDUARDO |
 
