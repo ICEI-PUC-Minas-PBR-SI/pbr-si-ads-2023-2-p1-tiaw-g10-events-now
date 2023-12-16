@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
                           <p class="card-text text-truncate">${service.introduction}</p>
                       </div>
                       <div class="mb-3 d-flex justify-content-around">
-                          <a href="servico.html#${service.id}"><button class="btn" id="botao">Contratar</button></a>
+                          <a href="servico.html#${service.id}"><button class="btn color-now1" id="botao">Contratar</button></a>
                       </div>
                   </div>
               </div>
