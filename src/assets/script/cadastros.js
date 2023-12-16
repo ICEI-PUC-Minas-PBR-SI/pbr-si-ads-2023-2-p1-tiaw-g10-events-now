@@ -37,12 +37,10 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => console.error('Error fetching data:', error));
 });
 
-
-
-async function addService (servName, servDesc, servState, servCity, servLoc, servPhoto1, servPhoto2, servPhoto3, servPhoto4, servPhoto5, servPhoto6) {
+async function addService (servName, servDesc, servBDesc, servState, servCity, servPhoto1, servPhoto2, servPhoto3, servPhoto4, servPhoto5, servPhoto6) {
   
         // Cria um objeto de usuario para o novo usuario 
-        let servico = { "userId": user.id, "name": servName, "desc": servDesc, "state": servState, "city": servCity, "location": servLoc, "images": [{"image": servPhoto1},{"image": servPhoto2},{"image": servPhoto3},{"image": servPhoto4},{"image": servPhoto5},{"image": servPhoto6}] };
+        let servico = { "userId": user.id, "name": servName, "introduction": servBDesc, "description": servDesc, "state": servState, "city": servCity, "images": [{"image": servPhoto1},{"image": servPhoto2},{"image": servPhoto3},{"image": servPhoto4},{"image": servPhoto5},{"image": servPhoto6}] };
         
         await fetch(apUrl2, {
             method: 'POST',

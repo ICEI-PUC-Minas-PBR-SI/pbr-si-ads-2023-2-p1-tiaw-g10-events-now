@@ -63,35 +63,39 @@
                     <label for="servName" class="form-label">Nome</label>
                     <input type="text" class="form-control" id="servName" placeholder="" required>
                   </div>
+
                   <div class="col-12 form-floating">
-                    <div class="form-floating">
-                      <textarea class="form-control" placeholder="" id="servDesc" required></textarea>
-                      <label for="servDesc">Descrição</label>
+                    <div class="form-floating">                      
+                      <textarea class="form-control" placeholder="" id="servBDesc" required></textarea>
+                  <label for="servBDesc">Breve descrição</label>
                     </div>
                   </div>
+
+                  <div class="col-12 form-floating">
+                    <div class="form-floating">                      
+                      <textarea class="form-control" placeholder="" id="servDesc" required></textarea>
+                      <label for="servDesc">Descrição completa</label>
+                    </div>
+                  </div>
+
                   <div class="col-6">
                     <label for="servState" class="form-label">Estado</label>
                     <select type="select" class="form-control" id="servState" placeholder="" required>
-                      <option value="1">Minas Gerais</option>
-                      <option value="2">São Paulo</option>
-                      <option value="3">Rio de Janeiro</option>
+                      <option value="Minas Gerais">Minas Gerais</option>
+                      <option value="São Paulo">São Paulo</option>
+                      <option value="Rio de Janeiro">Rio de Janeiro</option>
                     </select>
                   </div>
                   <div class="col-6">
                     <label for="servCity" class="form-label">Cidade</label>
                     <select type="text" class="form-control" id="servCity" placeholder="" required>
-                      <option value="1">Belo Horizonte</option>
-                      <option value="2">São Paulo</option>
-                      <option value="3">Rio de Janeiro</option>
+                      <option value="Belo Horizonte">Belo Horizonte</option>
+                      <option value="São Paulo">São Paulo</option>
+                      <option value="Rio de Janeiro">Rio de Janeiro</option>
                     </select>
 
                   </div>
-                  <div class="col-12 form-floating">
-                    <div class="form-floating">
-                      <textarea class="form-control" placeholder="" required id="servLoc"></textarea>
-                      <label for="servLoc">Localização</label>
-                    </div>
-                  </div>
+
                   <div class="col-12">
                     <label for="servPhotos" class="form-label">Fotos (links)</label>
                     <input type="text" class="form-control" id="servPhoto1" placeholder="Link 1">
@@ -205,10 +209,10 @@
 
       // Obtem os dados do formulário
       let servName = document.getElementById('servName').value;
+      let servBDesc = document.getElementById('servBDesc').value;
       let servDesc = document.getElementById('servDesc').value;
       let servState = document.getElementById('servState').value;
       let servCity = document.getElementById('servCity').value;
-      let servLoc = document.getElementById('servLoc').value;
       let servPhoto1 = document.getElementById('servPhoto1').value;
       let servPhoto2 = document.getElementById('servPhoto2').value;
       let servPhoto3 = document.getElementById('servPhoto3').value;
@@ -217,7 +221,7 @@
       let servPhoto6 = document.getElementById('servPhoto6').value;
 
       // Adiciona o usuário no banco de dados
-      addService(servName, servDesc, servState, servCity, servLoc, servPhoto1, servPhoto2, servPhoto3, servPhoto4, servPhoto5, servPhoto6);
+      addService(servName, servDesc, servBDesc, servState, servCity, servPhoto1, servPhoto2, servPhoto3, servPhoto4, servPhoto5, servPhoto6);
 
     }
 
