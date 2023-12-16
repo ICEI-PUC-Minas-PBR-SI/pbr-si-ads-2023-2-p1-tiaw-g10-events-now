@@ -67,7 +67,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001  | O sistema deve ser responsivo para rodar em um dispositivos móvel| MÉDIA | MARCO |
 |RNF-006  | Velocidade de Carregamento Rápido | ALTA | EDUARDO |
-|RNF-009  | Interface de Usuário Intuitiva e Simples | ALTA | DANTON |
+|RNF-009  | Interface de Usuário Intuitiva e Simples | ALTA | DANTON E EDUARDO |
 
 
 ## Restrições
